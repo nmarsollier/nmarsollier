@@ -1,5 +1,7 @@
 # Néstor Rubén Marsollier
 
+This is the personal developer profile, if you have a good work opportunity for me (see my interests), feel free to contact me.
+
 ### Personal Info
 
 __Email__: nmarsollier@gmail.com
