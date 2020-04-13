@@ -6,17 +6,13 @@ This is the personal developer profile, if you have a good work opportunity for 
 
 __Email__: nmarsollier@gmail.com
 
-__Hangouts__: nmarsollier@gmail.com
-
 __WhatsApp & Phone #__: +54 261 503 5118
-
-__Birth Date__: 10-15-1976
-
-__LinkedIn:__: [nestor-marsollier](https://www.linkedin.com/in/nestor-marsollier-a2006117/)
 
 __Address__: Virgen de la Medalla Milagrosa 4863, Villa Nueva, Guaymallén, Mendoza,  Argentina. CP 5521
 
 __Idioms__: Spanish (native) & English
+
+__Birth Date__: 10-15-1976
 
 ## Formal Education
 
