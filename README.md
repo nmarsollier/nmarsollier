@@ -6,6 +6,9 @@ This is the personal developer profile, if you have a good work opportunity for 
 
 __Email__: nmarsollier@gmail.com
 
+__LinkedIn__: [linkedin.com](www.linkedin.com/in/nestor-marsollier-a2006117
+)
+
 __WhatsApp & Phone #__: +54 261 503 5118
 
 __Address__: Virgen de la Medalla Milagrosa 4863, Villa Nueva, Guaymallén, Mendoza,  Argentina. CP 5521
