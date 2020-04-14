@@ -6,7 +6,7 @@ This is the personal developer profile, if you have a good work opportunity for 
 
 __Email__: nmarsollier@gmail.com
 
-__LinkedIn__: [linkedin.com](www.linkedin.com/in/nestor-marsollier-a2006117
+__LinkedIn__: [linkedin.com](https://www.linkedin.com/in/nestor-marsollier-a2006117
 )
 
 __WhatsApp & Phone #__: +54 261 503 5118
