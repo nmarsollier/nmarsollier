@@ -11,7 +11,7 @@ __LinkedIn__: [linkedin.com](https://www.linkedin.com/in/nestor-marsollier-a2006
 
 __WhatsApp & Phone #__: +54 261 503 5118
 
-__Address__: Virgen de la Medalla Milagrosa 4863, Villa Nueva, Guaymallén, Mendoza,  Argentina. CP 5521
+__Address__: Villa Nueva, Guaymallén, Mendoza, Argentina.
 
 __Idioms__: Spanish (native) & English
 
