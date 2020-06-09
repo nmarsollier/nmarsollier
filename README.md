@@ -51,6 +51,13 @@ Not allowed to relocate to other countries, can work from home.
 
 Recent work first
 
+### Mercadolibre
+
+- Visit [eventbrite.com](https://www.mercadolibre.com/)
+- Level: Technical Leader
+
+- Duration: 2020 - now
+
 ### Eventbrite
 
 - Visit [eventbrite.com](https://www.eventbrite.com/)
@@ -62,7 +69,7 @@ ___Organizer App___
 - [Visit playstore](https://play.google.com/store/apps/details?id=com.eventbrite.organizer)
 - Role: Senior Software Developer
 - Technologies: Java - Kotlin
-- Duration: 2016 - now
+- Duration: 2016 - 2020
 
 ### UTN Universidad Tecnológica Nacional
 
