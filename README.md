@@ -53,7 +53,7 @@ Recent work first
 
 ### Mercadolibre
 
-- Visit [eventbrite.com](https://www.mercadolibre.com/)
+- Visit [mercadolibre.com](https://www.mercadolibre.com/)
 - Level: Technical Leader
 
 - Duration: 2020 - now
