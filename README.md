@@ -79,7 +79,7 @@ An elective engineer course to lean good patterns and practices to develop small
 
 - [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
 
-- __2018, 2019, 2020__: React and Node with Typescript
+- __2018, 2019, 2020, 2021__: React and Node with Typescript
 - __2017__: Angular, Node with Typescript
 - __2015, 2016__: Angular, EJB
 - __2013, 2014__: EJB, JSF
@@ -92,7 +92,7 @@ ___Arquitectura de Microservicios (Microservices Architecture)___
 An elective engineer course to lean good patterns and practices to develop huge size applications.
 
 - [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- __2018, 2019, 2020__: Java, Angular, Golang, Node, Typescript, Python, RabbitMQ, MongoDB, Redis
+- __2018, 2019, 2020, 2021__: Java, Angular, Golang, Node, Typescript, Python, RabbitMQ, MongoDB, Redis
 - Code Samples:  [github.com/nmarsollier](https://github.com/nmarsollier/)
 
 ### AG2 Technology
