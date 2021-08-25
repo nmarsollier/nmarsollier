@@ -4,26 +4,24 @@ This is the personal developer profile, if you have a good work opportunity for 
 
 ### Personal Info
 
-__Email__: nmarsollier@gmail.com
+**Email**: nmarsollier@gmail.com
 
-__LinkedIn__: [linkedin.com](https://www.linkedin.com/in/nestor-marsollier-a2006117
-)
+**LinkedIn**: [linkedin.com](https://www.linkedin.com/in/nestor-marsollier-a2006117)
 
-__WhatsApp & Phone #__: +54 261 503 5118
+**WhatsApp & Phone #**: +54 261 503 5118
 
-__Address__: Villa Nueva, Guaymallén, Mendoza, Argentina.
+**Address**: Villa Nueva, Guaymallén, Mendoza, Argentina.
 
-__Idioms__: Spanish (native) & English
+**Idioms**: Spanish (native) & English
 
-__Birth Date__: 10-15-1976
+**Birth Date**: 10-15-1976
 
 ## Formal Education
 
-__UTN Universidad Tecnológica Nacional, Mendoza Argentina.__
+**UTN Universidad Tecnológica Nacional, Mendoza Argentina.**
 
 - B.S. Computer Systems Engineering.
 - B.S. System Analyst.
-
 
 ## Working summary
 
@@ -47,71 +45,102 @@ But also very interested in gaming technologies (need to learn).
 
 Not allowed to relocate to other countries, can work from home.
 
-## __Work Experience__
+## **Work Experience**
 
 Recent work first
 
 ### Mercadolibre
 
 - Visit [mercadolibre.com](https://www.mercadolibre.com/)
-- Level: Technical Leader
+- Level: Android Technical Leader and Backend Dev
+- Duration: 05-2020 - now
 
-- Duration: 2020 - now
+**MercadoPago**
+
+**_Backend_**
+
+- Backend Architecture: Microservices, Amazon AWS, MySql, Object Storage, KWS
+- Backend Languages: Javascript, Typescript, GoLang
+- Common Patterns: Functional style programming, 3 layers of abstraction, MVC, Creational, Adpaters, Strategy, Chain of Responsibility
+
+**_Android_**
+
+- _Architecture_: Deeplinkable activity based architecture, MVC & MVVM, AndroidX Test, Espresso
+- _Languages_: Kotlin
+- _Libraries_: Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps
+- _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
+
+**Tools**
+Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall
 
 ### Eventbrite
 
 - Visit [eventbrite.com](https://www.eventbrite.com/)
 - Level: Senior Software Engineer II
 
-___Organizer App___
+**_Organizer App_**
 
 - Android application client for Eventbrite
 - [Visit playstore](https://play.google.com/store/apps/details?id=com.eventbrite.organizer)
 - Role: Senior Software Developer
 - Technologies: Java - Kotlin
-- Duration: 2016 - 2020
+- Duration: 07-2016 - 05/2020
+
+**_Android_**
+
+- _Architecture_: Fragment based navigation, MVC & MVVM, Espresso, Robolectric
+- _Languages_: Java, Kotlin
+- _Libraries_: Jetpack, OkHttp, Retrofit, LiveData, Picasso, PlayServices, Firebase, Gson, AndroidX, PayPal Here, JUnit, Room, OrmLite, Analytics, Facebook Login
+- _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
+
+**Tools**
+Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall, Jenkins
 
 ### UTN Universidad Tecnológica Nacional
 
-___Programación Avanzada (Advanced programming)___
+**_Programación Avanzada (Advanced programming)_**
 
 An elective engineer course to lean good patterns and practices to develop small and medium size applications.
 
 - [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
 
-- __2018, 2019, 2020, 2021__: React and Node with Typescript
-- __2017__: Angular, Node with Typescript
-- __2015, 2016__: Angular, EJB
-- __2013, 2014__: EJB, JSF
+- **2018, 2019, 2020, 2021**: React and Node with Typescript
+- **2017**: Angular, Node with Typescript
+- **2015, 2016**: Angular, EJB
+- **2013, 2014**: EJB, JSF
 
 - Duration: Since 2013
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 
-___Arquitectura de Microservicios (Microservices Architecture)___
+- **Books** : React Hooks in Action, Typescript Language Specification, MSDN - Application Architecture Guide, HTML and CSS Design and Build Websites, Eloquent JavaScript 
+
+**_Arquitectura de Microservicios (Microservices Architecture)_**
 
 An elective engineer course to lean good patterns and practices to develop huge size applications.
 
 - [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- __2018, 2019, 2020, 2021__: Java, Angular, Golang, Node, Typescript, Python, RabbitMQ, MongoDB, Redis
-- Code Samples:  [github.com/nmarsollier](https://github.com/nmarsollier/)
+- **2018, 2019, 2020, 2021**: Java, Angular, Golang, Node, Typescript, RabbitMQ, MongoDB, Redis
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- **Books**: Sam Newman - Building Microservices, Vernon Vaughn - Implementing Domain Driven Design.
 
 ### AG2 Technology
 
-___OfficeDepot Copy & Print module___
+**_OfficeDepot Copy & Print module_**
+
 - [officedepot.com/configurator](http://www.officedepot.com/configurator/pod/#/product/copiesAndFlyers)
 - Role: Architect
 - Technologies: Java2EE, Angular, Rest Services, etc.
-- Duration : 2014 - 2016
+- Duration : 2014 - 07-2016
 
-___Stand4 Project___
+**_Stand4 Project_**
 
 - Role: Android Developer and Architect
 - Technologies: Android, Parse, Facebook SDK, Google Apis, etc.
-- Duration: 2014 - 2016
+- Duration: 2014 - 07/2016
 
 ### Atos Corp
 
-___Redbus Project___
+**_Redbus Project_**
 
 - Role: Senior Developer, Architect
 - Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest
@@ -120,13 +149,13 @@ ___Redbus Project___
 
 ### Belatrix S.A.
 
-___StoneRiver Project___
+**_StoneRiver Project_**
 
 - Role : Senior Developer
 - Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
 - Duration: 11 months
 
-___Talens Project___
+**_Talens Project_**
 
 - Role : Senior Developer
 - Technologies: Spring, Java, JSP, Hibernate, Agile, Rally.
@@ -134,7 +163,7 @@ ___Talens Project___
 
 ### Hewlett Packard Argentina
 
-___SABRE AACoRN System___
+**_SABRE AACoRN System_**
 
 - Role: Specialist Developer
 - Technologies: Java, Swing, EJB2, Oracle, SABRE, Web Services, JSP,
@@ -143,7 +172,7 @@ ___SABRE AACoRN System___
 
 ### Suris S.A.
 
-___Senectus / Vitae System.___
+**_Senectus / Vitae System._**
 
 - Role: Developer
 - Technologies: Java - Spring - ExtJS - Hibernate - SVN - Eclipse - MySQL.
@@ -151,7 +180,7 @@ ___Senectus / Vitae System.___
 
 ### Siemens
 
-___Redbus Project___
+**_Redbus Project_**
 
 - Role: Architect & Developer
 - Technologies: Java, JSP, Oracle, Netbeans, RedHat Linux.
@@ -159,13 +188,13 @@ ___Redbus Project___
 
 ### Imaquio S.A.
 
-___Nuebus Project___
+**_Nuebus Project_**
 
 - Role: Technical Leader & Developer
 - Technology: Java, JSP, Oracle
 - Duration: 4 years.
 
-___Amadeus Client___
+**_Amadeus Client_**
 
 - Role: Technical Leader
 - Technology: EJB 2, Oracle, Web Services.
@@ -173,7 +202,7 @@ ___Amadeus Client___
 
 ### CRICYT
 
-___Work assistance control system___
+**_Work assistance control system_**
 
 - Position: Developer, Designer, Analyst
 - Technology: Java, Swing, MySQL.
