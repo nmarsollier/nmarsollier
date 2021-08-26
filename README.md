@@ -84,7 +84,7 @@ Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, 
 - [Visit playstore](https://play.google.com/store/apps/details?id=com.eventbrite.organizer)
 - Role: Senior Software Developer
 - Technologies: Java - Kotlin
-- Duration: 07-2016 - 05/2020
+- Duration: 07-2016 - 05-2020
 
 **_Android_**
 
@@ -109,10 +109,9 @@ An elective engineer course to lean good patterns and practices to develop small
 - **2015, 2016**: Angular, EJB
 - **2013, 2014**: EJB, JSF
 
-- Duration: Since 2013
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 
-- **Books** : React Hooks in Action, Typescript Language Specification, MSDN - Application Architecture Guide, HTML and CSS Design and Build Websites, Eloquent JavaScript 
+- **Books** : React Hooks in Action, Typescript Language Specification, MSDN - Application Architecture Guide, HTML and CSS Design and Build Websites, Eloquent JavaScript
 
 **_Arquitectura de Microservicios (Microservices Architecture)_**
 
@@ -130,13 +129,13 @@ An elective engineer course to lean good patterns and practices to develop huge 
 - [officedepot.com/configurator](http://www.officedepot.com/configurator/pod/#/product/copiesAndFlyers)
 - Role: Architect
 - Technologies: Java2EE, Angular, Rest Services, etc.
-- Duration : 2014 - 07-2016
+- Duration : 05-2014 - 07-2016
 
 **_Stand4 Project_**
 
 - Role: Android Developer and Architect
 - Technologies: Android, Parse, Facebook SDK, Google Apis, etc.
-- Duration: 2014 - 07/2016
+- Duration: 05-2014 - 07-2016
 
 ### Atos Corp
 
@@ -145,7 +144,7 @@ An elective engineer course to lean good patterns and practices to develop huge 
 - Role: Senior Developer, Architect
 - Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest
 - WebServices
-- Duration: 3 years
+- Duration: 01-2011 - 05-2014
 
 ### Belatrix S.A.
 
@@ -153,13 +152,13 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 - Role : Senior Developer
 - Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
-- Duration: 11 months
+- Duration: 03-2010 - 01-2011
 
 **_Talens Project_**
 
 - Role : Senior Developer
 - Technologies: Spring, Java, JSP, Hibernate, Agile, Rally.
-- Duration : 4 months
+- Duration : 08-2009 - 03-2010
 
 ### Hewlett Packard Argentina
 
@@ -168,7 +167,7 @@ An elective engineer course to lean good patterns and practices to develop huge 
 - Role: Specialist Developer
 - Technologies: Java, Swing, EJB2, Oracle, SABRE, Web Services, JSP,
 - JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
-- Duration: 1,5 years.
+- Duration: 02-2008 - 08-2009
 
 ### Suris S.A.
 
@@ -176,7 +175,7 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 - Role: Developer
 - Technologies: Java - Spring - ExtJS - Hibernate - SVN - Eclipse - MySQL.
-- Duration on project: 12 months.
+- Duration on project: 01-2007 - 02-2008
 
 ### Siemens
 
@@ -184,7 +183,7 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 - Role: Architect & Developer
 - Technologies: Java, JSP, Oracle, Netbeans, RedHat Linux.
-- Duration: 4 years.
+- Duration: 01-2002 - 01-2006.
 
 ### Imaquio S.A.
 
@@ -192,13 +191,13 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 - Role: Technical Leader & Developer
 - Technology: Java, JSP, Oracle
-- Duration: 4 years.
+- Duration: 01-2002 - 01-2005.
 
 **_Amadeus Client_**
 
 - Role: Technical Leader
 - Technology: EJB 2, Oracle, Web Services.
-- Duration: 3 years.
+- Duration: 01-2005 - 01-2007.
 
 ### CRICYT
 
@@ -206,6 +205,30 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 - Position: Developer, Designer, Analyst
 - Technology: Java, Swing, MySQL.
-- Duration: The project, 1 year.
+- Duration: 05-2006 - 06-2007.
+
+### Senectus
+
+**_Wine traceability system_**
+
+- Position: Developer, Designer, Analyst
+- Technology: Fox Pro.
+- Duration: 01-2000 - 01-2002.
+
+### Altamed
+
+**_Medical control_**
+
+- Position: Developer, Designer, Analyst
+- Technology: Fox Pro.
+- Duration: 05-1998 - 01-2000.
+
+### Banco de Prevision Social
+
+**_Office supply tracking system_**
+
+- Position: Developer, Designer, Analyst
+- Technology: Clipper, Fox.
+- Duration: 08-1996 - 05-1998.
 
 ### And more...
