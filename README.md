@@ -50,13 +50,31 @@ Since 1994 working on software development, my recent jobs go first in the list 
 
 ### Freelancer @ Paypal
 
-- Working as Android Dev at Paypal as freelancer.
+- Android Developer.
+- Duration: 09-2021 - Present
+
+
+### Techer @ UTN Universidad Tecnológica Nacional
+
+**Course:** _Advanced programming_
+
+- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
+- React, Node with Typescript
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- Duration: 2013 - Present
+  
+**Course:** _Microservices Architecture_
+
+- Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis
+- [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- Duration: 2018 - Present
 
 ### Mercadolibre
 
 - Visit [mercadolibre.com](https://www.mercadolibre.com/)
 - Level: Android Technical Leader and Backend Dev
-- Duration: 05-2020 - now
+- Duration: 05-2020 - 09-2021
 
 **MercadoPago**
 
@@ -98,32 +116,6 @@ _Android_
 
 **Tools**
 Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall, Jenkins
-
-### UTN Universidad Tecnológica Nacional
-
-**_Advanced programming_**
-
-A course to lean good patterns and practices to develop small and medium size applications.
-
-- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-
-- **2018, 2019, 2020, 2021**: React and Node with Typescript
-- **2017**: Angular, Node with Typescript
-- **2015, 2016**: Angular, EJB
-- **2013, 2014**: EJB, JSF
-
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-
-- **Books** : React Hooks in Action, Typescript Language Specification, MSDN - Application Architecture Guide, HTML and CSS Design and Build Websites, Eloquent JavaScript
-
-**_Microservices Architecture_**
-
-A course to lean good patterns and practices to develop huge applications with microservices architecture.
-
-- [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- **2018, 2019, 2020, 2021**: Java, Angular, Golang, Node, Typescript, RabbitMQ, MongoDB, Redis
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- **Books**: Sam Newman - Building Microservices, Vernon Vaughn - Implementing Domain Driven Design.
 
 ### AG2 Technology
 
