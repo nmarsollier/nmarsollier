@@ -1,6 +1,6 @@
 # Néstor Rubén Marsollier
 
-This is the personal developer profile, if you have a good work opportunity for me (see my interests), feel free to contact me.
+This is the personal developer profile, always looking to good job opportunities, feel free to contact me.
 
 ### Personal Info
 
@@ -27,27 +27,27 @@ This is the personal developer profile, if you have a good work opportunity for 
 
 Developer since 1994, since 2015 highly interested in software architecture.
 
+My main objective is to build strong architectures using simple patterns, obtaining code easy to read and maintain. Many companies elevates the development cost applying complex architectures like Clean Architecture improperly. As architect I focus con flexlible hexagonal architectures, with tools that makes development experience something unique in this sea of complexities that we are living on. That simplicity brings lowers the costs of software development, and makes sustainable code.
+
 I worked with several programming languages and architectures, most of them are not longer used, right now these are my current skills :
 
-- Senior Android Developer: Java, Kotlin, Android
-- Senior Backend Developer: Java, Kotlin
-- Complementary languages: node, angular, golang
-- Architectures: Monolithic, Microservices, Event driven, etc.
-- Databases: NoSql & Relational db
+- Android Development: Kotlin, Android
+- Backend Developer: Kotlin, Go, Typescript
+- Architectures: Monolithic, Microservices, Event Driven.
 
 ## My Interests
 
-Interested in event driven microservices architecture development, working with languages like go, kotlin, java, or typescript.
+Android native projects.
 
-Also interested in Android native projects.
-
-But also very interested in gaming technologies (need to learn).
-
-Not allowed to relocate to other countries, can work from home.
+Microservices architecture development, working with languages like go, kotlin, java, or typescript.
 
 ## **Work Experience**
 
 Recent work first
+
+### Freelancer @ Paypal
+
+- Working as Android Dev at Paypal as freelancer.
 
 ### Mercadolibre
 
