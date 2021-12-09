@@ -1,6 +1,8 @@
 # Néstor Rubén Marsollier
 
-This is the personal developer profile, always looking to good job opportunities, feel free to contact me.
+This is the personal developer profile.
+
+Looking to good remote job opportunities, feel free to contact me.
 
 ### Personal Info
 
@@ -27,7 +29,9 @@ This is the personal developer profile, always looking to good job opportunities
 
 Developer since 1994, since 2015 highly interested in software architecture.
 
-My main objective is to build strong architectures using simple patterns, obtaining code easy to read and maintain. Many companies elevates the development cost applying complex architectures like Clean Architecture improperly. As architect I focus con flexlible hexagonal architectures, with tools that makes development experience something unique in this sea of complexities that we are living on. That simplicity brings lowers the costs of software development, and makes sustainable code.
+My main objective is to build strong architectures using simple patterns.
+
+I try to honor the quote : "Everything should be made as simple as possible, but no simpler"
 
 I worked with several programming languages and architectures, most of them are not longer used, right now these are my current skills :
 
