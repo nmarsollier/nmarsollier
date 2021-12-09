@@ -1,8 +1,19 @@
 # Néstor Rubén Marsollier
 
-This is the personal developer profile.
+I try to honor the quote : _"Everything should be made as simple as possible, but no simpler"_
 
-Looking to good remote job opportunities, feel free to contact me.
+My main objective is to build strong architectures using simple patterns.
+
+## My Interests
+
+Looking to good remote job opportunities on :
+
+* Android native projects.
+
+* Microservices architecture development.
+
+Mostly working with in mordern languages like go, kotlin or typescript.
+
 
 ### Personal Info
 
@@ -27,27 +38,15 @@ Looking to good remote job opportunities, feel free to contact me.
 
 ## Working summary
 
-Developer since 1994, since 2015 highly interested in software architecture.
-
-My main objective is to build strong architectures using simple patterns.
-
-I try to honor the quote : "Everything should be made as simple as possible, but no simpler"
-
-I worked with several programming languages and architectures, most of them are not longer used, right now these are my current skills :
+I worked with several programming languages and architectures, these are my currents :
 
 - Android Development: Kotlin, Android
 - Backend Developer: Kotlin, Go, Typescript
 - Architectures: Monolithic, Microservices, Event Driven.
 
-## My Interests
+## **Job Experience**
 
-Android native projects.
-
-Microservices architecture development, working with languages like go, kotlin, java, or typescript.
-
-## **Work Experience**
-
-Recent work first
+Since 1994 working on software development, my recent jobs go first in the list :
 
 ### Freelancer @ Paypal
 
@@ -61,13 +60,13 @@ Recent work first
 
 **MercadoPago**
 
-**_Backend_**
+_Backend_
 
 - Backend Architecture: Microservices, Amazon AWS, MySql, Object Storage, KWS
 - Backend Languages: Javascript, Typescript, GoLang
 - Common Patterns: Functional style programming, 3 layers of abstraction, MVC, Creational, Adpaters, Strategy, Chain of Responsibility
 
-**_Android_**
+_Android_
 
 - _Architecture_: Deeplinkable activity based architecture, MVC & MVVM, AndroidX Test, Espresso
 - _Languages_: Kotlin
@@ -82,7 +81,7 @@ Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, 
 - Visit [eventbrite.com](https://www.eventbrite.com/)
 - Level: Senior Software Engineer II
 
-**_Organizer App_**
+_Organizer App_
 
 - Android application client for Eventbrite
 - [Visit playstore](https://play.google.com/store/apps/details?id=com.eventbrite.organizer)
@@ -90,7 +89,7 @@ Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, 
 - Technologies: Java - Kotlin
 - Duration: 07-2016 - 05-2020
 
-**_Android_**
+_Android_
 
 - _Architecture_: Fragment based navigation, MVC & MVVM, Espresso, Robolectric
 - _Languages_: Java, Kotlin
@@ -102,9 +101,9 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 
 ### UTN Universidad Tecnológica Nacional
 
-**_Programación Avanzada (Advanced programming)_**
+**_Advanced programming_**
 
-An elective engineer course to lean good patterns and practices to develop small and medium size applications.
+A course to lean good patterns and practices to develop small and medium size applications.
 
 - [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
 
@@ -117,9 +116,9 @@ An elective engineer course to lean good patterns and practices to develop small
 
 - **Books** : React Hooks in Action, Typescript Language Specification, MSDN - Application Architecture Guide, HTML and CSS Design and Build Websites, Eloquent JavaScript
 
-**_Arquitectura de Microservicios (Microservices Architecture)_**
+**_Microservices Architecture_**
 
-An elective engineer course to lean good patterns and practices to develop huge size applications.
+A course to lean good patterns and practices to develop huge applications with microservices architecture.
 
 - [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
 - **2018, 2019, 2020, 2021**: Java, Angular, Golang, Node, Typescript, RabbitMQ, MongoDB, Redis
@@ -205,7 +204,7 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 ### CRICYT
 
-**_Work assistance control system_**
+**_Employee assistance control system_**
 
 - Position: Developer, Designer, Analyst
 - Technology: Java, Swing, MySQL.
@@ -221,7 +220,7 @@ An elective engineer course to lean good patterns and practices to develop huge 
 
 ### Altamed
 
-**_Medical control_**
+**_Medicine insurance system_**
 
 - Position: Developer, Designer, Analyst
 - Technology: Fox Pro.
