@@ -53,7 +53,7 @@ Since 1994 working on software development, my recent jobs go first in the list 
 - Android Developer.
 - Duration: 09-2021 - Present
 - _Common Patterns_: Event driven architecture using MVI, Hilt DI, Apollo (GraphQL)
-- 
+
 **Tools**
 Jira, Confluence, Analytics, Figma, Looker, Splank, Amplitude, Microsoft Suite, Jenkins, GitHub, DataDog, Trello, Slack
 
