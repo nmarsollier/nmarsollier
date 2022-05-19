@@ -52,7 +52,10 @@ Since 1994 working on software development, my recent jobs go first in the list 
 
 - Android Developer.
 - Duration: 09-2021 - Present
-
+- _Common Patterns_: Event driven architecture using MVI, Hilt DI, Apollo (GraphQL)
+- 
+**Tools**
+Jira, Confluence, Analytics, Figma, Looker, Splank, Amplitude, Microsoft Suite, Jenkins, GitHub, DataDog, Trello, Slack
 
 ### Techer @ UTN Universidad Tecnológica Nacional
 
@@ -65,7 +68,7 @@ Since 1994 working on software development, my recent jobs go first in the list 
   
 **Course:** _Microservices Architecture_
 
-- Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis
+- Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka
 - [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2018 - Present
@@ -92,7 +95,7 @@ _Android_
 - _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
 
 **Tools**
-Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall
+Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall, Kafka
 
 ### Eventbrite
 
@@ -137,7 +140,7 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 **_Redbus Project_**
 
 - Role: Senior Developer, Architect
-- Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest
+- Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest, Kafka
 - WebServices
 - Duration: 01-2011 - 05-2014
 
