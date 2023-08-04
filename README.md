@@ -4,6 +4,9 @@ I try to honor the quote : _"Everything should be made as simple as possible, bu
 
 My main objective is to build strong architectures using simple patterns.
 
+In this personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures.
+
+
 ## My Interests
 
 Looking to good remote job opportunities on :
