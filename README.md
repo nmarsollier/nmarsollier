@@ -86,12 +86,12 @@ Jira, Confluence, Analytics, Figma, Looker, Splank, Amplitude, Microsoft Suite, 
 
 ### Techer @ UTN Universidad Tecnológica Nacional
 
-**Course:** _Advanced programming_
+**Course:** _Software Development_
 
 - [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
 - React, Node with Typescript
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2013 - Present
+- Duration: 2023 - Present
   
 **Course:** _Microservices Architecture_
 
@@ -100,6 +100,13 @@ Jira, Confluence, Analytics, Figma, Looker, Splank, Amplitude, Microsoft Suite, 
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2018 - Present
 
+**Course:** _Advanced programming_
+
+- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
+- React, Node with Typescript
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- Duration: 2013 - 2023
+  
 ### Mercadolibre
 
 - Visit [mercadolibre.com](https://www.mercadolibre.com/)
