@@ -16,7 +16,7 @@ In this personal repositories you can see some of the educational resources crea
 
 [Volume Widget for Android](https://github.com/nmarsollier/volumewidget) A wodget to control volume.
 
-[My IP Woidget for Android](https://github.com/nmarsollier/myipwidget) Shows the local ip in a widget.
+[My IP Widget for Android](https://github.com/nmarsollier/myipwidget) Shows the local ip in a widget.
 
 [QR Barcode](https://github.com/nmarsollier/go_barcode) For demo purposes, generates barcodes from a string. Golang.
 
