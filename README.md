@@ -6,6 +6,30 @@ My main objective is to build strong architectures using simple patterns.
 
 In this personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures.
 
+## Some interestings repos
+
+[Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways.
+
+[Goland Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques.
+
+[Battery Switch Widget for Android](https://github.com/nmarsollier/batteryswitch) With tasmota support can switch the battery charger when battery is 80% and turn on when it is 15%.
+
+[Volume Widget for Android](https://github.com/nmarsollier/volumewidget) A wodget to control volume.
+
+[My IP Woidget for Android](https://github.com/nmarsollier/myipwidget) Shows the local ip in a widget.
+
+[QR Barcode](https://github.com/nmarsollier/go_barcode) For demo purposes, generates barcodes from a string. Golang.
+
+[Semver Json Store](https://github.com/nmarsollier/semver_resource_server) Useful to download text resources in mobile apps controlling versions. Typescript/Node.
+
+[Document Store](https://github.com/nmarsollier/document_store) A document store in Golang.
+
+[Ecommer Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
+
+[Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React.
+
+[Crossword board generator in java](https://github.com/nmarsollier/crosswords) Rebuilding old lost project.
+
 
 ## My Interests
 
