@@ -24,11 +24,11 @@ In this personal repositories you can see some of the educational resources crea
 
 [Document Store](https://github.com/nmarsollier/document_store) A document store in Golang.
 
-[Ecommer Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
+[Ecommerce Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
 
 [Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React.
 
-[Crossword board generator in java](https://github.com/nmarsollier/crosswords) Rebuilding old lost project.
+[Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code.
 
 
 ## My Interests
