@@ -4,7 +4,7 @@ I try to honor the quote : _"Everything should be made as simple as possible, bu
 
 My main objective is to build strong architectures using simple patterns.
 
-In this personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures.
+In my personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures or simple software demos.
 
 ## Some interestings repos
 
@@ -31,15 +31,15 @@ In this personal repositories you can see some of the educational resources crea
 [Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code.
 
 
-## My Interests
+## What I can do
 
-Looking to good remote job opportunities on :
+* Android native projects. Architect, TL or Sr Dev.
 
-* Android native projects.
+* Microservices architecture development. Architect or Sr Dev.
 
-* Microservices architecture development.
+* Backend. Sr Dev. SQL, NoSQL, languages like GoLang, Java, Koltin, Typescript and Javascript are not a problem.
 
-Mostly working with in mordern languages like go, kotlin or typescript.
+Last years I was working on Android.
 
 
 ### Personal Info
@@ -56,56 +56,21 @@ Mostly working with in mordern languages like go, kotlin or typescript.
 
 **Birth Date**: 10-15-1976
 
-## Formal Education
+## Education
 
-**UTN Universidad Tecnológica Nacional, Mendoza Argentina.**
-
-- B.S. Computer Systems Engineering.
-- B.S. System Analyst.
+- B.S. Computer Systems Engineering. @ **UTN Universidad Tecnológica Nacional, Mendoza Argentina.**
 
 ## Working summary
 
-I worked with several programming languages and architectures, these are my currents :
+### Paypal
 
-- Android Development: Kotlin, Android
-- Backend Developer: Kotlin, Go, Typescript
-- Architectures: Monolithic, Microservices, Event Driven.
-
-## **Job Experience**
-
-Since 1994 working on software development, my recent jobs go first in the list :
-
-### Freelancer @ Paypal
-
-- Android Developer.
+- Android Sr Developer.
 - Duration: 09-2021 - Present
+- Mastercard Credit Card Benefits
 - _Common Patterns_: Event driven architecture using MVI, Hilt DI, Apollo (GraphQL)
 
 **Tools**
-Jira, Confluence, Analytics, Figma, Looker, Splank, Amplitude, Microsoft Suite, Jenkins, GitHub, DataDog, Trello, Slack
-
-### Techer @ UTN Universidad Tecnológica Nacional
-
-**Course:** _Software Development_
-
-- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- React, Node with Typescript
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2023 - Present
-  
-**Course:** _Microservices Architecture_
-
-- Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka
-- [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2018 - Present
-
-**Course:** _Advanced programming_
-
-- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- React, Node with Typescript
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2013 - 2023
+Jira, Confluence, Analytics, Figma, Amplitude, Jenkins, GitHub, DataDog, Slack
   
 ### Mercadolibre
 
@@ -264,3 +229,26 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 - Duration: 08-1996 - 05-1998.
 
 ### And more...
+
+### Also I'm a techer @ UTN Universidad Tecnológica Nacional
+
+**Course:** _Software Development_
+
+- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
+- React, Node with Typescript
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- Duration: 2023 - Present
+  
+**Course:** _Microservices Architecture_
+
+- Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka
+- [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- Duration: 2018 - Present
+
+**Course:** _Advanced programming_
+
+- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
+- React, Node with Typescript
+- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
+- Duration: 2013 - 2023
