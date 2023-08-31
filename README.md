@@ -201,7 +201,7 @@ In my personal repositories you can see some of the educational resources create
 
 ## Some interestings repositories with sameple code
 
-[Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways.
+[Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways. MVI Demo app  in 2 verions Android SDK and Jetpack Compose
 
 [Goland Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques.
 
