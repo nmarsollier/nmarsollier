@@ -45,8 +45,6 @@
 - Sr Android Developer
 - Duration: 09-2021 - Present
 
-**Project** 
-
 Mastercard Credit Card Benefits
 
 - Develop the Android UI for Mastercard Benefits
@@ -54,8 +52,6 @@ Mastercard Credit Card Benefits
 - Account Summary
 - Transactions details
 - Payment Schedules
-
-**Technologies**
 
 Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
   
@@ -69,8 +65,6 @@ Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI 
 
 _Backend_
 
-**Project** 
-
 Money In - Money Out
 
 - Design and develop money in flows (ask for money, get paid, request income)
@@ -79,17 +73,12 @@ Money In - Money Out
 - Implement core solutions
 - Coach developers on technologies and architectures
 
-**Technologies**
-
-- Backend Architecture: Microservices, Amazon AWS, MySql, Object Storage, KWS, Apache Kafka
-- Backend Languages: Javascript, Typescript, GoLang
-- Common Patterns: Functional style programming, 3 layers of abstraction, MVC, Creational, Adpaters, Strategy, Chain of Responsibility
+- _Backend Architecture_: Microservices, Amazon AWS, MySql, Object Storage, KWS, Apache Kafka
+- _Backend Languages_: Javascript, Typescript, GoLang
+- _Common Patterns_: Functional style programming, 3 layers of abstraction, MVC, Creational, Adpaters, Strategy, Chain of Responsibility
 
 _Android_
 
-
-**Project** 
-
 Money In - Money Out
 
 - Design and develop money in flows (ask for money, get paid, request income)
@@ -97,23 +86,17 @@ Money In - Money Out
 - Lead in technical solutions
 - Implement core solutions
 - Coach developers on technologies and architectures
-
-**Technologies**
 
 - _Architecture_: Deeplinkable activity based architecture, MVC & MVVM, AndroidX Test, Espresso
 - _Languages_: Kotlin
 - _Libraries_: Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps
 - _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
-
-**Tools**
-Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall, Kafka
+- _Tools_: Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall, Kafka
 
 ### Eventbrite
 
 - Visit [eventbrite.com](https://www.eventbrite.com/)
 - Level: Senior Software Engineer II
-
-**Project** 
 
 _Organizer App_
 
@@ -129,20 +112,18 @@ _Android_
 - _Languages_: Java, Kotlin
 - _Libraries_: Jetpack, OkHttp, Retrofit, LiveData, Picasso, PlayServices, Firebase, Gson, AndroidX, PayPal Here, JUnit, Room, OrmLite, Analytics, Facebook Login
 - _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
-
-**Tools**
-Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall, Jenkins
+- _Tools_: Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall, Jenkins
 
 ### AG2 Technology
 
-**_OfficeDepot Copy & Print module_**
+_OfficeDepot Copy & Print module_
 
 - [officedepot.com/configurator](http://www.officedepot.com/configurator/pod/#/product/copiesAndFlyers)
 - Role: Architect
 - Technologies: Java2EE, Angular, Rest Services, etc.
 - Duration : 05-2014 - 07-2016
 
-**_Stand4 Project_**
+_Stand4 Project_
 
 - Role: Android Developer and Architect
 - Technologies: Android, Parse, Facebook SDK, Google Apis, etc.
@@ -150,7 +131,7 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 
 ### Atos Corp
 
-**_Redbus Project_**
+_Redbus Project_
 
 - Role: Senior Developer, Architect
 - Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest, Kafka
@@ -159,13 +140,13 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 
 ### Belatrix S.A.
 
-**_StoneRiver Project_**
+_StoneRiver Project_
 
 - Role : Senior Developer
 - Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
 - Duration: 03-2010 - 01-2011
 
-**_Talent Project_**
+_Talent Project_
 
 - Role : Senior Developer
 - Technologies: Spring, Java, JSP, Hibernate, Agile, Rally.
@@ -173,7 +154,7 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 
 ### Hewlett Packard Argentina
 
-**_SABRE AACoRN System_**
+_SABRE AACoRN System_
 
 - Role: Specialist Developer
 - Technologies: Java, Swing, EJB2, Oracle, SABRE, Web Services, JSP,
