@@ -36,9 +36,7 @@
 
 **Birth Date**: 10-15-1976
 
-## Education
-
-- B.S. Computer Systems Engineering. @ **UTN Universidad Tecnológica Nacional, Mendoza Argentina.**
+**Education**: B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
 
 ## Working Experience
 
