@@ -52,8 +52,8 @@ Mastercard Credit Card Benefits
 - Account Summary
 - Transactions details
 - Payment Schedules
-
-Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
+- _Common Patterns_: Event driven architecture using MVI, MVI architecture, Coroutines with flows, Dagger/Hilt DI
+- _Stack_ : Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), Navigation framework, DataDog, Jira, Figma, Confluence , Slack
   
 ### Mercadopago
 
@@ -91,7 +91,7 @@ Money In - Money Out
 - _Languages_: Kotlin
 - _Libraries_: Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps
 - _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
-- _Tools_: Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall, Kafka
+- _Stack_: Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall, Kafka
 
 ### Eventbrite
 
