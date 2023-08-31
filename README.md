@@ -182,12 +182,12 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 - JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
 - Duration: 02-2008 - 08-2009
 
-# I have removed olders jobs, becuase the list is very long... on previous works I worked on since 1996
+## I have removed olders jobs, becuase the list is very long... on previous works I worked on since 1996
 
 Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascipt, HTML, and many others.
 Oracle, MySQL, Postgresql, SQL Server 
 
-# Also I'm a techer @ UTN Universidad Tecnológica Nacional
+## Also I'm a techer @ UTN Universidad Tecnológica Nacional
 
 **Course:** _Software Development_
 
