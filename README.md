@@ -182,12 +182,14 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 - JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
 - Duration: 02-2008 - 08-2009
 
-## I have removed olders jobs, becuase the list is very long... on previous works I worked on since 1996
+## I have removed olders jobs, becuase the list is very long...
+
+Previous experiences since 1996
 
 Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascipt, HTML, and many others.
 Oracle, MySQL, Postgresql, SQL Server 
 
-## Also I'm a techer @ UTN Universidad Tecnológica Nacional
+## Community activity: Teacher at UTN Universidad Tecnológica Nacional
 
 **Course:** _Software Development_
 
@@ -210,7 +212,7 @@ Oracle, MySQL, Postgresql, SQL Server
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2013 - 2023
 
-# More about me
+## Personal Presentation
 
 I try to honor the quote : _"Everything should be made as simple as possible, but no simpler"_
 
@@ -218,7 +220,7 @@ My main objective is to build strong architectures using simple patterns.
 
 In my personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures or simple software demos.
 
-## Some interestings repos
+## Some interestings repositories with sameple code
 
 [Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways.
 
