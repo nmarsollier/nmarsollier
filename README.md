@@ -1,48 +1,29 @@
 # Néstor Rubén Marsollier
 
-I try to honor the quote : _"Everything should be made as simple as possible, but no simpler"_
+## Quick Overview and skills
 
-My main objective is to build strong architectures using simple patterns.
+**Android Native Developer**
 
-In my personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures or simple software demos.
+- Worked as Sr Developer in PayPal, Architect in Mercadopago and Eventbrite, and more experiences as full sack dev. 
+- 12 years of experience, 8 years working in kotlin. 
+- Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
-## Some interestings repos
+*Microservices**
 
-[Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways.
+- Worked as TL in Mercadopago.
+- Actually teaching the technology in UTN (University) as advanced cathedra.
+- RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX, and more.
+- Javascript, Typescript, Java, Kotlin, and Golang development.
 
-[Goland Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques.
+**Backend developer**
 
-[Battery Switch Widget for Android](https://github.com/nmarsollier/batteryswitch) With tasmota support can switch the battery charger when battery is 80% and turn on when it is 15%.
-
-[Volume Widget for Android](https://github.com/nmarsollier/volumewidget) A wodget to control volume.
-
-[My IP Widget for Android](https://github.com/nmarsollier/myipwidget) Shows the local ip in a widget.
-
-[QR Barcode](https://github.com/nmarsollier/go_barcode) For demo purposes, generates barcodes from a string. Golang.
-
-[Semver Json Store](https://github.com/nmarsollier/semver_resource_server) Useful to download text resources in mobile apps controlling versions. Typescript/Node.
-
-[Document Store](https://github.com/nmarsollier/document_store) A document store in Golang.
-
-[Ecommerce Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
-
-[Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React.
-
-[Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code.
+- Worked as Sr Java Developer in Athos corporation, Hewlett Packard, and Siemens
+- Since 1996 working with different frameworks from JSP to Rest applications. I have used EJB 2 and 3, and them moved to Spring stack.
+- SQL with MySql, Postgresql, Oracle; NoSQL with MongoDB, KeyValue with Redis, different orms, and also on high performance monolyts applications, direct access.
+- Languages used: GoLang, Java, Koltin, Typescript and Javascript.
 
 
-## What I can do
-
-* Android native projects. Architect, TL or Sr Dev.
-
-* Microservices architecture development. Architect or Sr Dev.
-
-* Backend. Sr Dev. SQL, NoSQL, languages like GoLang, Java, Koltin, Typescript and Javascript are not a problem.
-
-Last years I was working on Android.
-
-
-### Personal Info
+## Personal Information
 
 **Email**: nmarsollier@gmail.com
 
@@ -52,7 +33,7 @@ Last years I was working on Android.
 
 **Address**: Villa Nueva, Guaymallén, Mendoza, Argentina.
 
-**Idioms**: Spanish (native) & English
+**Idioms**: Spanish (native) & English (very good)
 
 **Birth Date**: 10-15-1976
 
@@ -60,19 +41,28 @@ Last years I was working on Android.
 
 - B.S. Computer Systems Engineering. @ **UTN Universidad Tecnológica Nacional, Mendoza Argentina.**
 
-## Working summary
+## Working Experience
 
 ### Paypal
 
-- Android Sr Developer.
+- Sr Android Developer
 - Duration: 09-2021 - Present
-- Mastercard Credit Card Benefits
-- _Common Patterns_: Event driven architecture using MVI, Hilt DI, Apollo (GraphQL)
 
-**Tools**
-Jira, Confluence, Analytics, Figma, Amplitude, Jenkins, GitHub, DataDog, Slack
+**Project** 
+
+Mastercard Credit Card Benefits
+
+- Develop the Android UI for Mastercard Benefits
+- Engagement screens
+- Account Summary
+- Transactions details
+- Payment Schedules
+
+**Technologies**
+
+Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
   
-### Mercadolibre
+### Mercadopago
 
 - Visit [mercadolibre.com](https://www.mercadolibre.com/)
 - Level: Android Technical Leader and Backend Dev
@@ -82,11 +72,36 @@ Jira, Confluence, Analytics, Figma, Amplitude, Jenkins, GitHub, DataDog, Slack
 
 _Backend_
 
-- Backend Architecture: Microservices, Amazon AWS, MySql, Object Storage, KWS
+**Project** 
+
+Money In - Money Out
+
+- Design and develop money in flows (ask for money, get paid, request income)
+- Design and develop money out flows (send money, organize contacts, pay) 
+- Lead in technical solutions
+- Implement core solutions
+- Coach developers on technologies and architectures
+
+**Technologies**
+
+- Backend Architecture: Microservices, Amazon AWS, MySql, Object Storage, KWS, Apache Kafka
 - Backend Languages: Javascript, Typescript, GoLang
 - Common Patterns: Functional style programming, 3 layers of abstraction, MVC, Creational, Adpaters, Strategy, Chain of Responsibility
 
 _Android_
+
+
+**Project** 
+
+Money In - Money Out
+
+- Design and develop money in flows (ask for money, get paid, request income)
+- Design and develop money out flows (send money, organize contacts, pay) 
+- Lead in technical solutions
+- Implement core solutions
+- Coach developers on technologies and architectures
+
+**Technologies**
 
 - _Architecture_: Deeplinkable activity based architecture, MVC & MVVM, AndroidX Test, Espresso
 - _Languages_: Kotlin
@@ -100,6 +115,8 @@ Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, 
 
 - Visit [eventbrite.com](https://www.eventbrite.com/)
 - Level: Senior Software Engineer II
+
+**Project** 
 
 _Organizer App_
 
@@ -151,7 +168,7 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 - Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
 - Duration: 03-2010 - 01-2011
 
-**_Talens Project_**
+**_Talent Project_**
 
 - Role : Senior Developer
 - Technologies: Spring, Java, JSP, Hibernate, Agile, Rally.
@@ -252,3 +269,37 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 - React, Node with Typescript
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2013 - 2023
+
+# More about me
+
+I try to honor the quote : _"Everything should be made as simple as possible, but no simpler"_
+
+My main objective is to build strong architectures using simple patterns.
+
+In my personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures or simple software demos.
+
+## Some interestings repos
+
+[Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways.
+
+[Goland Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques.
+
+[Battery Switch Widget for Android](https://github.com/nmarsollier/batteryswitch) With tasmota support can switch the battery charger when battery is 80% and turn on when it is 15%.
+
+[Volume Widget for Android](https://github.com/nmarsollier/volumewidget) A wodget to control volume.
+
+[My IP Widget for Android](https://github.com/nmarsollier/myipwidget) Shows the local ip in a widget.
+
+[QR Barcode](https://github.com/nmarsollier/go_barcode) For demo purposes, generates barcodes from a string. Golang.
+
+[Semver Json Store](https://github.com/nmarsollier/semver_resource_server) Useful to download text resources in mobile apps controlling versions. Typescript/Node.
+
+[Document Store](https://github.com/nmarsollier/document_store) A document store in Golang.
+
+[Ecommerce Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
+
+[Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React.
+
+[Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code.
+
+
