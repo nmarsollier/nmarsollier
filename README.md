@@ -182,71 +182,12 @@ Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall
 - JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
 - Duration: 02-2008 - 08-2009
 
-### Suris S.A.
+# I have removed olders jobs, becuase the list is very long... on previous works I worked on since 1996
 
-**_Senectus / Vitae System._**
+Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascipt, HTML, and many others.
+Oracle, MySQL, Postgresql, SQL Server 
 
-- Role: Developer
-- Technologies: Java - Spring - ExtJS - Hibernate - SVN - Eclipse - MySQL.
-- Duration on project: 01-2007 - 02-2008
-
-### Siemens
-
-**_Redbus Project_**
-
-- Role: Architect & Developer
-- Technologies: Java, JSP, Oracle, Netbeans, RedHat Linux.
-- Duration: 01-2002 - 01-2006.
-
-### Imaquio S.A.
-
-**_Nuebus Project_**
-
-- Role: Technical Leader & Developer
-- Technology: Java, JSP, Oracle
-- Duration: 01-2002 - 01-2005.
-
-**_Amadeus Client_**
-
-- Role: Technical Leader
-- Technology: EJB 2, Oracle, Web Services.
-- Duration: 01-2005 - 01-2007.
-
-### CRICYT
-
-**_Employee assistance control system_**
-
-- Position: Developer, Designer, Analyst
-- Technology: Java, Swing, MySQL.
-- Duration: 05-2006 - 06-2007.
-
-### Senectus
-
-**_Wine traceability system_**
-
-- Position: Developer, Designer, Analyst
-- Technology: Fox Pro.
-- Duration: 01-2000 - 01-2002.
-
-### Altamed
-
-**_Medicine insurance system_**
-
-- Position: Developer, Designer, Analyst
-- Technology: Fox Pro.
-- Duration: 05-1998 - 01-2000.
-
-### Banco de Prevision Social
-
-**_Office supply tracking system_**
-
-- Position: Developer, Designer, Analyst
-- Technology: Clipper, Fox.
-- Duration: 08-1996 - 05-1998.
-
-### And more...
-
-### Also I'm a techer @ UTN Universidad Tecnológica Nacional
+# Also I'm a techer @ UTN Universidad Tecnológica Nacional
 
 **Course:** _Software Development_
 
