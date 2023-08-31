@@ -8,13 +8,6 @@
 - 12 years of experience, 8 years working in kotlin. 
 - Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
-*Microservices**
-
-- Worked as TL in Mercadopago.
-- Actually teaching the technology in UTN (University) as advanced cathedra.
-- RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX, and more.
-- Javascript, Typescript, Java, Kotlin, and Golang development.
-
 **Backend developer**
 
 - Worked as Sr Java Developer in Athos corporation, Hewlett Packard, and Siemens
@@ -22,6 +15,12 @@
 - SQL with MySql, Postgresql, Oracle; NoSQL with MongoDB, KeyValue with Redis, different orms, and also on high performance monolyts applications, direct access.
 - Languages used: GoLang, Java, Koltin, Typescript and Javascript.
 
+**Microservices**
+
+- Worked as TL in Mercadopago.
+- Actually teaching the technology in UTN (University) as advanced cathedra.
+- RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX, and more.
+- Javascript, Typescript, Java, Kotlin, and Golang development.
 
 ## Personal Information
 
