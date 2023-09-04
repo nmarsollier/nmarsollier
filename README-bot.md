@@ -27,16 +27,20 @@ Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
 - Country : Argentina
 - Address: Villa Nueva, Guaymallén, Mendoza, Argentina.
 - Languages : Spanish, English
-- Birth Date: 1976-10-15
-- Education: B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
+- Birth Date: 10/1976
 
-# Working Experience
+
+# Education
+
+B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
+
+# Work Experience
 
 ## Paypal
 
 Sr Android Developer
 
-2021-09 to Present
+09/2021 - Present
 
 ### Module: Mastercard Credit Card Benefits
 
@@ -52,7 +56,7 @@ Sr Android Developer
 
 Android Technical Leader and Backend Dev
 
-2020-05 to 2021-09
+05/2020 - 09/2021
 
 ### Module : Money In - Money Out
 
@@ -82,7 +86,7 @@ Android Technical Leader and Backend Dev
 
 Senior Software Developer
 
-2016-07 to 2020-05
+07/2016 - 05/2020
 
 ### Module : Organizer App
 
@@ -97,7 +101,7 @@ Senior Software Developer
 
 ### Module : Copy & Print
 
-2014-05 to 2016-07
+05/2014 - 07/2016
 
 - Role : Architect
 - Technologies : Java2EE, Angular, Rest Services, etc.
@@ -106,7 +110,7 @@ Senior Software Developer
 
 ### Module : Startup social netowrk
 
-2014-05 to 2016-07
+05/2014 - 07/2016
 
 - Role: Android Developer and Architect
 - Technologies: Android, Parse, Facebook SDK, Google Apis, etc.
@@ -115,7 +119,7 @@ Senior Software Developer
 
 ### Redbus
 
-2011-01 to 2014-05
+01/2011 - 05/2014
 
 - Role: Senior Developer, Architect
 - Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest, Kafka
@@ -125,14 +129,14 @@ Senior Software Developer
 
 ### Module : StoneRiver Project
 
-2010-03 to 2011-01
+03/2010 - 01/2011
 
 - Role : Senior Developer
 - Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
 
 ### Module : Talent Project
 
-2009-08 to 2010-03
+08/2009 - 03/2010
 
 - Role : Senior Developer
 - Technologies: Spring, Java, JSP, Hibernate, Agile, Rally.
@@ -141,15 +145,15 @@ Senior Software Developer
 
 ### Module : SABRE AACoRN
 
-2008-02 to 2009-08
+02/2008 - 08/2009
 
 - Role: Senior Software Developer
 - Technologies: Java, Swing, EJB2, Oracle, SABRE, Web Services, JSP,
 - JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
 
-## Previous experiences
+## Previous
 
-1996 to 2008
+1996 - 2008
 
 Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascipt, HTML, and many others.
 Oracle, MySQL, Postgresql, SQL Server 
