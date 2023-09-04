@@ -4,8 +4,9 @@
 
 **Android Native Developer**
 
-- Worked as Sr Developer in PayPal, Architect in Mercadopago and Eventbrite, and more experiences as full sack dev. 
-- 12 years of experience, 8 years working in kotlin. 
+- Worked as Sr Developer in PayPal 
+- Architect in Mercadopago and Eventbrite
+- 12 years of experience in Android, 8 years working in kotlin. 
 - Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
 **Backend developer**
@@ -190,14 +191,6 @@ Oracle, MySQL, Postgresql, SQL Server
 - React, Node with Typescript
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2013 - 2023
-
-## Personal Presentation
-
-I try to honor the quote : _"Everything should be made as simple as possible, but no simpler"_
-
-My main objective is to build strong architectures using simple patterns.
-
-In my personal repositories you can see some of the educational resources created by me, and also some other tests with different architectures or simple software demos.
 
 ## Some interestings repositories with sameple code
 
