@@ -217,3 +217,4 @@ Oracle, MySQL, Postgresql, SQL Server
 [Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code.
 
 
+[Text Version](https://github.com/nmarsollier/profile/README-bot)
