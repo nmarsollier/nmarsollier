@@ -1,6 +1,16 @@
 # Néstor Rubén Marsollier
 
-Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
+# Contact Information
+
+- Email : nmarsollier@gmail.com
+- LinkedIn : https://www.linkedin.com/in/nestor-marsollier-a2006117
+- GitHub : https://www.github.com/nmarsollier/profile
+- Phone : +542615035118
+- Whatsapp: +542615035118
+- Country : Argentina
+- Address: Villa Nueva, Guaymallén, Mendoza, Argentina.
+- Languages : Spanish, English
+- Birth Date: 10/1976
 
 # Skills
 
@@ -16,25 +26,7 @@ Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
 - Teacher : Javascript, Typescript, Node, React, Microservices
 - Teacher Experience : 10 years 
 
-
-# Contact Information
-
-- Email : nmarsollier@gmail.com
-- LinkedIn : https://www.linkedin.com/in/nestor-marsollier-a2006117
-- GitHub : https://www.github.com/nmarsollier/profile
-- Phone : +542615035118
-- Whatsapp: +542615035118
-- Country : Argentina
-- Address: Villa Nueva, Guaymallén, Mendoza, Argentina.
-- Languages : Spanish, English
-- Birth Date: 10/1976
-
-
-# Education
-
-B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
-
-# Work Experience
+# Professional Experience
 
 ## Paypal
 
@@ -180,5 +172,11 @@ UTN Universidad Tecnológica Nacional
 
 - React, Node with Typescript
 
+# Education
 
+B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
 
+# Languages
+
+- Spanish : Native
+- English : Advanced
