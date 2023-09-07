@@ -2,20 +2,6 @@
 
 Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
 
-## Skills
-
-- Android Developer : Kotlin, Java, Jetpack Compose, Android SDK, Google Services, GraphQL, Rest, Retrofit, Room Database, JUnit, Espresso, Jacoco, Hilt, Dagger, MVVM, MVC, MVI
-- Android Experience: 12 years.
-- Tecnical Leader : Mobile in MercadoPago, Eventbrite
-- Architect : In MercadoPago 
-- Backend Developer : Koltin, Java, GoLang, Go, Typescript, Node, Javascript, SQL, NoSql, Microservices, MongoDb, MySql, Oracle, Postgresql, Event Driven Architecture, DDD, Spring, EJB
-- Wroking Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
-- Development Experience : 26 years
-- Companies : PayPal, MercadoPago, Mercadolibre, Eventbrite, Siemens, Office Depot, Athos, Hewlett Packard 
-- Microservices : RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX
-- Teacher : Javascript, Typescript, Node, React, Microservices
-- Teacher Experience : 10 years 
-
 # Contact Information
 
 - Email : nmarsollier@gmail.com
@@ -33,8 +19,21 @@ Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
 
 B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
 
-# Work Experience
+## Skills
 
+- Android Developer : Kotlin, Java, Jetpack Compose, Android SDK, Google Services, GraphQL, Rest, Retrofit, Room Database, JUnit, Espresso, Jacoco, Hilt, Dagger, MVVM, MVC, MVI
+- Android Experience: 12 years.
+- Tecnical Leader : Mobile in MercadoPago, Eventbrite
+- Architect : In MercadoPago 
+- Backend Developer : Koltin, Java, GoLang, Go, Typescript, Node, Javascript, SQL, NoSql, Microservices, MongoDb, MySql, Oracle, Postgresql, Event Driven Architecture, DDD, Spring, EJB
+- Wroking Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
+- Development Experience : 26 years
+- Companies : PayPal, MercadoPago, Mercadolibre, Eventbrite, Siemens, Office Depot, Athos, Hewlett Packard 
+- Microservices : RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX
+- College Professor : Javascript, Typescript, Node, React, Microservices
+- Teacher Experience : 10 years 
+
+# Work Experience
 
 ##Paypal
 
@@ -156,7 +155,7 @@ Senior Software Developer
 Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascipt, HTML, and many others.
 Oracle, MySQL, Postgresql, SQL Server 
 
-## Teacher
+## College Professor
 
 UTN Universidad Tecnológica Nacional
 
