@@ -2,7 +2,7 @@
 
 Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
 
-# Skills
+## Skills
 
 - Android Developer : Kotlin, Java, Jetpack Compose, Android SDK, Google Services, GraphQL, Rest, Retrofit, Room Database, JUnit, Espresso, Jacoco, Hilt, Dagger, MVVM, MVC, MVI
 - Android Experience: 12 years.
@@ -15,7 +15,6 @@ Sr Android Developer, Android Technical Leader, Teacher and Backend Developer
 - Microservices : RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX
 - Teacher : Javascript, Typescript, Node, React, Microservices
 - Teacher Experience : 10 years 
-
 
 # Contact Information
 
@@ -36,13 +35,14 @@ B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoz
 
 # Work Experience
 
-## Paypal
+
+##Paypal
 
 Sr Android Developer
 
 09/2021 - Present
 
-### Module: Mastercard Credit Card Benefits
+***Module***: Mastercard Credit Card Benefits
 
 - Develop the Android UI for Mastercard Benefits
 - Engagement screens
@@ -58,7 +58,7 @@ Android Technical Leader and Backend Dev
 
 05/2020 - 09/2021
 
-### Module : Money In - Money Out
+**Money In - Money Out**
 
 - Design and develop money in flows (ask for money, get paid, request income)
 - Design and develop money out flows (send money, organize contacts, pay) 
@@ -69,7 +69,7 @@ Android Technical Leader and Backend Dev
 - Backend Languages : Javascript, Typescript, GoLang
 - Common Patterns : Functional style programming, 3 layers of abstraction, MVC, Creational, Adpaters, Strategy, Chain of Responsibility
 
-### Module : Money In - Money Out
+**Money In - Money Out**
 
 - Design and develop money in flows (ask for money, get paid, request income)
 - Design and develop money out flows (send money, organize contacts, pay) 
@@ -88,7 +88,7 @@ Senior Software Developer
 
 07/2016 - 05/2020
 
-### Module : Organizer App
+**Organizer App**
 
 - Technologies : Java - Kotlin
 - Architecture : MVC & MVVM, Espresso, Robolectric
@@ -99,16 +99,14 @@ Senior Software Developer
 
 ## OfficeDepot
 
-### Module : Copy & Print
+**Copy & Print**
 
 05/2014 - 07/2016
 
 - Role : Architect
 - Technologies : Java2EE, Angular, Rest Services, etc.
 
-## Stand4 
-
-### Module : Startup social netowrk
+**Stand4 - Startup social netowrk** 
 
 05/2014 - 07/2016
 
@@ -117,7 +115,7 @@ Senior Software Developer
 
 ## Atos Corp
 
-### Redbus
+**Redbus**
 
 01/2011 - 05/2014
 
@@ -127,14 +125,14 @@ Senior Software Developer
 
 ## Belatrix S.A.
 
-### Module : StoneRiver Project
+**StoneRiver Project**
 
 03/2010 - 01/2011
 
 - Role : Senior Developer
 - Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
 
-### Module : Talent Project
+**Talent Project**
 
 08/2009 - 03/2010
 
@@ -143,7 +141,7 @@ Senior Software Developer
 
 ## Hewlett Packard
 
-### Module : SABRE AACoRN
+**SABRE AACoRN**
 
 02/2008 - 08/2009
 
@@ -162,19 +160,19 @@ Oracle, MySQL, Postgresql, SQL Server
 
 UTN Universidad Tecnológica Nacional
 
-### Module : Software Development
+**Software Development**
 
 2023 - Present
 
 - React, Node with Typescript
   
-### Module : Microservices Architecture
+**Microservices Architecture**
 
 2018 - Present
 
 - Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka
 
-### Module : Advanced programming
+**Advanced programming**
 
 2013 - 2023
 
