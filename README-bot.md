@@ -35,11 +35,23 @@ B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoz
 
 # Work Experience
 
-##Paypal
+## Dept Argentina
+
+Principal II Android Developer
+
+08/2023 - Present
+
+***Project***: Prismacolor+
+
+- Develop Prismacolor+, customer adquisition project
+- _Common Patterns_: Eventual MVVM arhitecture, Coroutines with flows, Koin DI
+- _Stack_ : Android SDK, Kotlin, Azure, Retrofit, Jetpack Compose, Figma, Slack, Coil
+  
+## Paypal
 
 Sr Android Developer
 
-09/2021 - Present
+09/2021 - 8/2023
 
 ***Module***: Mastercard Credit Card Benefits
 

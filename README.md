@@ -41,10 +41,22 @@
 
 ## Working Experience
 
+### Dept Argentina
+
+Principal II Android Developer
+
+08/2023 - Present
+
+***Project***: Prismacolor+
+
+- Develop Prismacolor+, customer adquisition project
+- _Common Patterns_: Eventual MVVM arhitecture, Coroutines with flows, Koin DI
+- _Stack_ : Android SDK, Kotlin, Azure, Retrofit, Jetpack Compose, Figma, Slack, Coil
+  
 ### Paypal
 
 - Sr Android Developer
-- Duration: 09-2021 - Present
+- Duration: 09/2021 - 8/2023
 
 Mastercard Credit Card Benefits
 
