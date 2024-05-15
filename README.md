@@ -6,7 +6,7 @@
 
 - Worked as Sr Developer in PayPal 
 - Architect in Mercadopago and Eventbrite
-- 12 years of experience in Android, 8 years working in kotlin. 
+- 13 years of experience in Android, 8 years working in kotlin. 1 Year working with Jetpack Compose. 
 - Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
 **Backend developer**
