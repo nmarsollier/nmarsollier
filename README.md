@@ -45,7 +45,7 @@
 - Working Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
 - Companies : Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos 
 
-## Backend developer**
+## Backend developer
 
 Senior backend developer, I have worked in monolith, SOA and microservices architectures, and also DDD when the language supports it.
 
