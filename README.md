@@ -19,7 +19,7 @@
 **Microservices**
 
 - Worked as TL in Mercadopago.
-- Actually teaching the technology in UTN (University) as advanced cathedra.
+- Techer at UTN (University) "Microservices Architecture".
 - RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX, and more.
 - Javascript, Typescript, Java, Kotlin, and Golang development.
 
