@@ -1,27 +1,71 @@
 # Néstor Rubén Marsollier
 
-## Quick Overview and skills
+These are some nice things that I like to do :
 
-**Android Native Developer**
+**Techer at UTN**
+
+**Android developer**
+
+**Backend developer**
+
+**I write some tutorials**
+
+**I do some code tests and I share them**
+
+At the end of this document there is a list of funny things and code samples that shows how I like to work.
+
+# Working history and Skills
+
+## Android Native Developer
 
 - Worked as Sr Developer in PayPal 
 - Architect in Mercadopago and Eventbrite
 - 13 years of experience in Android, 8 years working in kotlin. 1 Year working with Jetpack Compose. 
 - Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
-**Backend developer**
+[This is a same about my way to work](https://github.com/nmarsollier/fit_fat)
+
+**Keys**
+
+- Experience : Since 2011
+- Kotlin, Kotlin, Koin, Jetpack Compose, Android SDK, Google Services, GraphQL, Rest, Retrofit, GraphQL, Room Database/SqLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
+- Android Experience: 12 years.
+- Tecnical Leader : Mobile in MercadoPago, Eventbrite
+- Architect : In MercadoPago 
+- Wroking Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
+- Companies : Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos 
+
+## Backend developer**
+
+Senior backend developer, I have workied in monolyth, SOA and microservices architectures, and also DDD when the language supports it.
+
+Enthusiats GoLang developer using imperative programming. Functional and ojbect oriented paradigms in typescript.
+
+Also I have knolegde in Kotlin, Java.
 
 - Worked as Sr Java Developer in Athos corporation, Hewlett Packard, and Siemens
 - Since 1996 working with different frameworks from JSP to Rest applications. I have used EJB 2 and 3, and them moved to Spring stack.
 - SQL with MySql, Postgresql, Oracle; NoSQL with MongoDB, KeyValue with Redis, different orms, and also on high performance monolyts applications, direct access.
 - Languages used: GoLang, Java, Koltin, Typescript and Javascript.
 
-**Microservices**
+[These are some code samples](https://github.com/nmarsollier/ecommerce)
 
-- Worked as TL in Mercadopago.
-- Techer at UTN (University) "Microservices Architecture".
-- RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, Kubernetes, NGNX, and more.
-- Javascript, Typescript, Java, Kotlin, and Golang development.
+**Keys**
+
+- Experience : Since 1998
+- GoLang : Gin, Gorm, Go Mongo
+- Typescript : Express framework
+- Kotlin : Koin, Ktor
+- Java : Spring family
+- Technologies : Koltin, Java, GoLang, Go, Typescript, Node, Javascript, SQL, NoSql, Microservices, MongoDb, MySql, Oracle, Postgresql, Event Driven Architecture, DDD, Spring, Swagger, DataDog, Klarna
+- Wroking Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
+- Companies : PayPal, MercadoPago, Mercadolibre, Eventbrite, Siemens, Office Depot, Athos, Hewlett Packard 
+- Microservices : RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, NGNX
+
+**Techer at UTN (University)**
+
+- "Advanced Programming".
+- [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
 
 ## Personal Information
 
@@ -204,11 +248,15 @@ Oracle, MySQL, Postgresql, SQL Server
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2013 - 2023
 
-## Some interestings repositories with sameple code
+## Some repositories with code samples 
 
-[Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways. MVI Demo app  in 2 verions Android SDK and Jetpack Compose
+[Fit Fat Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways. MVI Demo app  in 2 verions Android SDK and Jetpack Compose
 
-[Goland Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques.
+[Fit Fat in React Native](https://github.com/nmarsollier/fit_fat_react_native) Same as above but in RN.
+
+[Ecommerce Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
+
+[Goland Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques. Some crazy ideas and good code to share.
 
 [Battery Switch Widget for Android](https://github.com/nmarsollier/batteryswitch) With tasmota support can switch the battery charger when battery is 80% and turn on when it is 15%.
 
@@ -218,15 +266,19 @@ Oracle, MySQL, Postgresql, SQL Server
 
 [QR Barcode](https://github.com/nmarsollier/go_barcode) For demo purposes, generates barcodes from a string. Golang.
 
-[Semver Json Store](https://github.com/nmarsollier/semver_resource_server) Useful to download text resources in mobile apps controlling versions. Typescript/Node.
+[Semver Json Store](https://github.com/nmarsollier/semver_resource_server) Useful to download text resources in mobile apps controlling versions. Typescript/Node. This code is for educational purposes so it is simple.
 
-[Document Store](https://github.com/nmarsollier/document_store) A document store in Golang.
+[Document Store](https://github.com/nmarsollier/document_store) A document store in Golang. This code is for educational purposes so it is simple.
 
-[Ecommerce Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wroten in Golang, Typescript, Java and Kotlin.
+[Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React. This code is for educational purposes so it is simple.
 
-[Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React.
+[4 in line game](https://github.com/nmarsollier/cuatrolinea) Another game. This code is for educational purposes so it is simple.
 
-[Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code.
+[Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code. Another spike.
 
+[React lessons](https://github.com/nmarsollier/react_lessons) For educational purposes with good a bad examples.
 
-[Text Version](https://github.com/nmarsollier/profile/blob/master/README-bot.md)
+[Javascript Lessons](https://github.com/nmarsollier/javascript_lessons) For educational purposes with good a bad examples.
+
+[Node lessons](https://github.com/nmarsollier/node_lessons) For educational purposes with good a bad examples.
+
