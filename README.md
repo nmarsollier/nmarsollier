@@ -108,11 +108,8 @@ Mastercard Credit Card Benefits
   
 ### Mercadopago
 
-- Visit [mercadopago.com](https://www.mercadopago.com/)
 - Level: Android Technical Leader and Backend Dev
 - Duration: 05-2020 - 09-2021
-
-**MercadoPago**
 
 _Backend_
 
@@ -146,15 +143,9 @@ Money In - Money Out
 
 ### Eventbrite
 
-- Visit [eventbrite.com](https://www.eventbrite.com/)
-- Level: Senior Software Engineer II
-
 _Organizer App_
 
-- Android application client for Eventbrite
-- [Visit playstore](https://play.google.com/store/apps/details?id=com.eventbrite.organizer)
-- Role: Senior Software Developer
-- Technologies: Java - Kotlin
+- Level: Senior Software Engineer II
 - Duration: 07-2016 - 05-2020
 
 _Android_
@@ -169,7 +160,6 @@ _Android_
 
 _OfficeDepot Copy & Print module_
 
-- [officedepot.com/configurator](http://www.officedepot.com/configurator/pod/#/product/copiesAndFlyers)
 - Role: Architect
 - Technologies: Java2EE, Angular, Rest Services, etc.
 - Duration : 05-2014 - 07-2016
