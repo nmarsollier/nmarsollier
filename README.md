@@ -30,7 +30,7 @@
 
 - Worked as Sr Developer in PayPal 
 - Architect in Mercadopago and Eventbrite
-- 13 years of experience in Android, 8 years working in kotlin. 1 Year working with Jetpack Compose. 
+- Since 2011 working in Android, Since 2012 working in kotlin. Sinde 2023 working with Jetpack Compose. 
 - Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
 [This is a same about my way to work](https://github.com/nmarsollier/fit_fat)
@@ -39,7 +39,7 @@
 
 - Experience : Since 2011
 - Kotlin, Kotlin, Koin, Jetpack Compose, Android SDK, Google Services, GraphQL, Rest, Retrofit, GraphQL, Room Database/SqLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
-- Android Experience: 12 years.
+- Android Experience: Since 2011.
 - Technical Leader : Mobile in MercadoPago, Eventbrite
 - Architect : In MercadoPago 
 - Working Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
