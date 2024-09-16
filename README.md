@@ -28,10 +28,9 @@
 
 ## Android Native Developer
 
-- Worked as Sr Developer in PayPal 
-- Architect in Mercadopago and Eventbrite
-- Since 2011 working in Android, Since 2012 working in kotlin. Sinde 2023 working with Jetpack Compose. 
-- Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
+Since 2011 working in Android, Since 2012 working in kotlin. Sinde 2023 working with Jetpack Compose. 
+
+Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
 
 [This is a same about my way to work](https://github.com/nmarsollier/fit_fat)
 
@@ -51,26 +50,14 @@ Senior backend developer, I have worked in monolith, SOA and microservices archi
 
 Enthusiast GoLang developer using imperative programming. Functional and object oriented paradigms in typescript.
 
-Also I have knolegde in Kotlin, Java.
+Since 1996 working with different frameworks from JSP to Rest applications. I have used EJB 2 and 3, and them moved to Spring stack.
 
-- Worked as Sr Java Developer in Athos corporation, Hewlett Packard, and Siemens
-- Since 1996 working with different frameworks from JSP to Rest applications. I have used EJB 2 and 3, and them moved to Spring stack.
-- SQL with MySql, Postgresql, Oracle; NoSQL with MongoDB, KeyValue with Redis, different orms, and also on high performance monoliths applications, direct access.
-- Languages used: GoLang, Java, Koltin, Typescript and Javascript.
+SQL with MySql, Postgresql, Oracle; NoSQL with MongoDB, KeyValue with Redis, different orms, and also on high performance monoliths applications, direct access.
+
+Languages used: GoLang, Java, Koltin, Typescript and Javascript.
 
 [These are some code samples](https://github.com/nmarsollier/ecommerce)
 
-**Keys**
-
-- Experience : Since 1998
-- GoLang : Gin, Gorm, Go Mongo
-- Typescript : Express framework
-- Kotlin : Koin, Ktor
-- Java : Spring family
-- Technologies : Koltin, Java, GoLang, Go, Typescript, Node, Javascript, SQL, NoSql, Microservices, MongoDb, MySql, Oracle, Postgresql, Event Driven Architecture, DDD, Spring, Swagger, DataDog, Klarna
-- Working Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
-- Companies : PayPal, MercadoPago, Mercadolibre, Eventbrite, Siemens, Office Depot, Athos, Hewlett Packard 
-- Microservices : RabbitMQ, Amazon AWS, Amazon Aurora, Apache Kafka, Docker, NGNX
 
 **Teacher at UTN (University)**
 
@@ -88,7 +75,7 @@ Principal II Android Developer
 ***Project***: Prismacolor+
 
 - Develop Prismacolor+, customer acquisition project
-- _Common Patterns_: Eventual MVVM architecture, Coroutines with flows, Koin DI
+- _Common Patterns_: Eventual MVI architecture, Coroutines with flows, Koin DI
 - _Stack_ : Android SDK, Kotlin, Azure, Retrofit, Jetpack Compose, Figma, Slack, Coil
   
 ### Paypal
@@ -108,7 +95,7 @@ Mastercard Credit Card Benefits
   
 ### Mercadopago
 
-- Level: Android Technical Leader and Backend Dev
+- Level: Technical Leader
 - Duration: 05-2020 - 09-2021
 
 _Backend_
