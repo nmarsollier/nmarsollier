@@ -189,14 +189,14 @@ _SABRE AACoRN System_
 - JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
 - Duration: 02-2008 - 08-2009
 
-## So far enough, I have removed older jobs, because the list is very long...
+### So far enough, I have removed older jobs, because the list is very long...
 
 Previous experiences since 1996
 
 Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascript, HTML, and many others.
 Oracle, MySQL, Postgresql, SQL Server 
 
-## Community activity: Teacher at UTN Universidad Tecnológica Nacional
+### Community activity: Teacher at UTN Universidad Tecnológica Nacional
 
 **Course:** _Software Development_
 
@@ -219,7 +219,7 @@ Oracle, MySQL, Postgresql, SQL Server
 - Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
 - Duration: 2013 - 2023
 
-## Some repositories with code samples 
+### Some repositories with code samples 
 
 [Fit Fat Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways. MVI Demo app  in 2 versions Android SDK and Jetpack Compose
 
