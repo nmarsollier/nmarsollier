@@ -143,20 +143,6 @@ _Android_
 - _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
 - _Tools_: Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall, Jenkins
 
-### AG2 Technology
-
-_OfficeDepot Copy & Print module_
-
-- Role: Architect
-- Technologies: Java2EE, Angular, Rest Services, etc.
-- Duration : 05-2014 - 07-2016
-
-_Stand4 Project_
-
-- Role: Android Developer and Architect
-- Technologies: Android, Parse, Facebook SDK, Google Apis, etc.
-- Duration: 05-2014 - 07-2016
-
 ### Atos Corp
 
 _Redbus Project_
@@ -165,29 +151,6 @@ _Redbus Project_
 - Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest, Kafka
 - WebServices
 - Duration: 01-2011 - 05-2014
-
-### Belatrix S.A.
-
-_StoneRiver Project_
-
-- Role : Senior Developer
-- Technologies: Spring, Mule, Java, Flex, DB2, MySQL, Agile, Rally.
-- Duration: 03-2010 - 01-2011
-
-_Talent Project_
-
-- Role : Senior Developer
-- Technologies: Spring, Java, JSP, Hibernate, Agile, Rally.
-- Duration : 08-2009 - 03-2010
-
-### Hewlett Packard Argentina
-
-_SABRE AACoRN System_
-
-- Role: Specialist Developer
-- Technologies: Java, Swing, EJB2, Oracle, SABRE, Web Services, JSP,
-- JaxWS, Axis 2, Ant, CMMI Level 3, JIRA, Accurev, UML, StarTeam, SAP
-- Duration: 02-2008 - 08-2009
 
 ### So far enough
 
