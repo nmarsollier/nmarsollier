@@ -1,220 +1,228 @@
 # Néstor Rubén Marsollier
 
-**Email** : nmarsollier@gmail.com
+## Contact Information
 
-**LinkedIn** : [linkedin.com](https://www.linkedin.com/in/nestor-marsollier-a2006117)
+- **Email**: nmarsollier@gmail.com
+- **LinkedIn**: [linkedin.com/in/nestor-marsollier-a2006117](https://www.linkedin.com/in/nestor-marsollier-a2006117)
+- **Phone**: +54 261 503 5118
+- **Address**: Villa Nueva, Guaymallén, Mendoza, Argentina
 
-**WhatsApp & Phone #** : +54 261 503 5118
+## Personal Information
 
-**Address** : Villa Nueva, Guaymallén, Mendoza, Argentina.
+- **Languages**: Spanish (native), English (advanced)
+- **Birth Date**: 10-15-1976
 
-**Idioms** : Spanish (native) & English (advanced)
+## Education
 
-**Birth Date** : 10-15-1976
+- **Degree**: B.S. Computer Systems Engineering
+- **Institution**: UTN Universidad Tecnológica Nacional, Mendoza, Argentina
 
-**Education** : B.S. Computer Systems Engineering. UTN Universidad Tecnológica Nacional, Mendoza Argentina.
+## Professional Summary
 
-**I'm what I do** :
+Experienced Android and Backend developer with a strong background in teaching and creating tutorials. Skilled in various programming languages and frameworks, with a focus on Android development since 2011 and Kotlin since 2012.
 
-- Teacher at UTN
-- Android developer
-- Backend developer
-- I write some tutorials
-- I do some code tests and I share them
+## Skills
 
-**At the end of this document there is a list of funny things and code samples that shows how I like to work.**
+### Android Native Developer
 
-# Skills
+- **Experience**: Since 2011
+- **Technologies**: Android SDK, Kotlin, Jetpack Compose, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
+- **Key Skills**: Kotlin, Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
+- **Roles**: Technical Leader for Mobile at MercadoPago, Eventbrite
+- **Architect**: MercadoPago
+- **Methodologies**: Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
+- **Companies**: Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos
+- **Sample Work**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
 
-## Android Native Developer
+### Backend Developer
 
-Since 2011 working in Android, Since 2012 working in kotlin. Sinde 2023 working with Jetpack Compose. 
+- **Experience**: Senior backend developer with expertise in monolith, SOA, and microservices architectures, including DDD when supported by the language.
+- **Technologies**: GoLang, Java, Kotlin, Typescript, Javascript
+- **Frameworks**: JSP, EJB 2 and 3, Spring stack, REST applications
+- **Databases**: SQL (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Key-Value (Redis)
+- **Key Skills**: High-performance monolith applications, direct access, various ORMs
+- **Sample Work**: [GitHub - Ecommerce](https://github.com/nmarsollier/ecommerce), [Golang Tutorial](https://github.com/nmarsollier/go_index)
 
-Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence , Slack
+### Teacher
 
-[This is a same about my way to work](https://github.com/nmarsollier/fit_fat)
+- **Institution**: UTN (University)
+- **Courses**: Advanced Programming, [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
 
-**Keys**
+## Professional Experience
 
-- Experience : Since 2011
-- Kotlin, Kotlin, Koin, Jetpack Compose, Android SDK, Google Services, GraphQL, Rest, Retrofit, GraphQL, Room Database/SqLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
-- Android Experience: Since 2011.
-- Technical Leader : Mobile in MercadoPago, Eventbrite
-- Architect : In MercadoPago 
-- Working Methodologies : Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
-- Companies : Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos 
+### JOANN
 
-## Backend developer
+**Sr React Native Developer**  
+**Duration**: 03/2024 - Present  
+**Project**: JOAN
 
-Senior backend developer, I have worked in monolith, SOA and microservices architectures, and also DDD when the language supports it.
-
-Enthusiast GoLang developer using imperative programming. Functional and object oriented paradigms in typescript.
-
-Since 1996 working with different frameworks from JSP to Rest applications. I have used EJB 2 and 3, and them moved to Spring stack.
-
-SQL with MySql, Postgresql, Oracle; NoSQL with MongoDB, KeyValue with Redis, different orms, and also on high performance monoliths applications, direct access.
-
-Languages used: GoLang, Java, Koltin, Typescript and Javascript.
-
-[These are some code samples](https://github.com/nmarsollier/ecommerce)
-
-
-**Teacher at UTN (University)**
-
-- "Advanced Programming".
-- [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
-
-## Working Experience
+- Working on software refactoring in React Native with Expo Go.
 
 ### Dept Argentina
 
-Principal II Android Developer
+**Principal II Android Developer**  
+**Duration**: 08/2023 - Present  
+**Project**: Prismacolor+
 
-08/2023 - Present
+- Developed Prismacolor+, a customer acquisition project.
+- Implemented Eventual MVI architecture, Coroutines with flows, and Koin Dependency Injection.
+- Utilized technologies including Android SDK, Kotlin, Azure, Retrofit, Jetpack Compose, Figma, Slack, and Coil.
 
-***Project***: Prismacolor+
+### PayPal
 
-- Develop Prismacolor+, customer acquisition project
-- _Common Patterns_: Eventual MVI architecture, Coroutines with flows, Koin DI
-- _Stack_ : Android SDK, Kotlin, Azure, Retrofit, Jetpack Compose, Figma, Slack, Coil
-  
-### Paypal
+**Sr Android Developer**  
+**Duration**: 09/2021 - 08/2023  
+**Project**: Mastercard Credit Card Benefits
 
-- Sr Android Developer
-- Duration: 09/2021 - 8/2023
+- Developed the Android UI for Mastercard Benefits.
+- Created engagement screens, account summary, transaction details, and payment schedules.
+- Utilized common patterns such as event-driven architecture using MVI, Coroutines with flows, and Dagger/Hilt for dependency injection.
+- **Technologies**: Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), Navigation framework, DataDog, Jira, Figma, Confluence, Slack.
 
-Mastercard Credit Card Benefits
-
-- Develop the Android UI for Mastercard Benefits
-- Engagement screens
-- Account Summary
-- Transactions details
-- Payment Schedules
-- _Common Patterns_: Event driven architecture using MVI, MVI architecture, Coroutines with flows, Dagger/Hilt DI
-- _Stack_ : Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), Navigation framework, DataDog, Jira, Figma, Confluence , Slack
-  
 ### Mercadopago
 
-- Level: Technical Leader
-- Duration: 05-2020 - 09-2021
+**Technical Leader**  
+**Duration**: 05/2020 - 09/2021
 
-_Backend_
+#### Backend
 
-Money In - Money Out
+**Project**: Money In - Money Out
 
-- Design and develop money in flows (ask for money, get paid, request income)
-- Design and develop money out flows (send money, organize contacts, pay) 
-- Lead in technical solutions
-- Implement core solutions
-- Coach developers on technologies and architectures
+- Designed and developed money in flows (ask for money, get paid, request income).
+- Designed and developed money out flows (send money, organize contacts, pay).
+- Led technical solutions and implemented core solutions.
+- Coached developers on technologies and architectures.
+- **Technologies**: Microservices, Amazon AWS, MySQL, Object Storage, KWS, Apache Kafka, JavaScript, TypeScript, GoLang, Functional style programming, 3 layers of abstraction, MVC, Creational, Adapters, Strategy, Chain of Responsibility.
 
-- _Backend Architecture_: Microservices, Amazon AWS, MySql, Object Storage, KWS, Apache Kafka
-- _Backend Languages_: Javascript, Typescript, GoLang
-- _Common Patterns_: Functional style programming, 3 layers of abstraction, MVC, Creational, Adapters, Strategy, Chain of Responsibility
+#### Android
 
-_Android_
+**Project**: Money In - Money Out
 
-Money In - Money Out
-
-- Design and develop money in flows (ask for money, get paid, request income)
-- Design and develop money out flows (send money, organize contacts, pay) 
-- Lead in technical solutions
-- Implement core solutions
-- Coach developers on technologies and architectures
-
-- _Architecture_: Deeplinkable activity based architecture, MVC & MVVM, AndroidX Test, Espresso
-- _Languages_: Kotlin
-- _Libraries_: Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps
-- _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
-- _Stack_: Jira, Bugsnag, Google Suite, Zepplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Watherfall, Kafka
+- Designed and developed money in flows (ask for money, get paid, request income).
+- Designed and developed money out flows (send money, organize contacts, pay).
+- Led technical solutions and implemented core solutions.
+- Coached developers on technologies and architectures.
+- **Technologies**: Deeplinkable activity-based architecture, MVC & MVVM, AndroidX Test, Espresso, Kotlin, Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps, Event-driven architecture using MVVM, MVC, Repository, Dao (API), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC, Jira, Bugsnag, Google Suite, Zeplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Waterfall, Kafka.
 
 ### Eventbrite
 
-_Organizer App_
+**Senior Software Engineer II**  
+**Duration**: 07/2016 - 05/2020  
+**Project**: Organizer App
 
-- Level: Senior Software Engineer II
-- Duration: 07-2016 - 05-2020
-
-_Android_
-
-- _Architecture_: Fragment based navigation, MVC & MVVM, Espresso, Robolectric
-- _Languages_: Java, Kotlin
-- _Libraries_: Jetpack, OkHttp, Retrofit, LiveData, Picasso, PlayServices, Firebase, Gson, AndroidX, PayPal Here, JUnit, Room, OrmLite, Analytics, Facebook Login
-- _Common Patterns_: Event driven architecture using MVVM, MVC, Repository, Dao (Api), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC
-- _Tools_: Jira, Bugsnag, Analytics, Google Suite, Zepplin, GitHub, Slack, Agile, Waterfall, Jenkins
+- **Architecture**: Fragment-based navigation, MVC, MVVM, Espresso, Robolectric.
+- **Languages**: Java, Kotlin.
+- **Libraries**: Jetpack, OkHttp, Retrofit, LiveData, Picasso, PlayServices, Firebase, Gson, AndroidX, PayPal Here, JUnit, Room, OrmLite, Analytics, Facebook Login.
+- **Design Patterns**: Event-driven architecture using MVVM, MVC, Repository, DAO (API), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC.
+- **Tools**: Jira, Bugsnag, Google Suite, Zeplin, GitHub, Slack, Jenkins.
+- **Methodologies**: Agile, Waterfall.
 
 ### Atos Corp
 
-_Redbus Project_
+**Senior Developer, Architect**  
+**Duration**: 01/2011 - 05/2014  
+**Project**: Redbus
 
-- Role: Senior Developer, Architect
-- Technologies: Android, JSP, Java Spring, Oracle, Postgresql, NFC, C++, Rest, Kafka
-- WebServices
-- Duration: 01-2011 - 05-2014
+- Developed and architected solutions for the Redbus project.
+- Designed and implemented web services.
+- Utilized technologies including Android, JSP, Java Spring, Oracle, PostgreSQL, NFC, C++, REST, and Kafka.
 
-### So far enough
+### Previous Experience
 
-I have removed older jobs, because the list is very long...
+- **Technologies**: Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTTP, JavaScript, HTML, Oracle, MySQL, PostgreSQL, SQL Server.
+- **Roles**: Various development and architecture roles since 1996.
 
-Previous experiences since 1996
+### UTN Universidad Tecnológica Nacional
 
-Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTP, Javascript, HTML, and many others.
-Oracle, MySQL, Postgresql, SQL Server 
+**Teacher**  
+**Duration**: 2013 - Present
 
-### Community activity: Teacher at UTN Universidad Tecnológica Nacional
+#### Course: Microservices Architecture
 
-**Course:** _Software Development_
+- **Technologies**: Java, Angular, Golang, Node.js, TypeScript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka.
+- **Responsibilities**: Developed and taught the Microservices Architecture course.
+- **Study Plan**: [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
+- **Code Samples**: [GitHub - nmarsollier](https://github.com/nmarsollier/).
+- **Duration**: 2018 - Present.
 
-- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- React, Node with Typescript
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2023 - Present
-  
-**Course:** _Microservices Architecture_
+#### Course: Advanced Programming
 
-- Java, Angular, Golang, Node, Typescript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka
-- [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2018 - Present
+- **Technologies**: React, Node.js with TypeScript.
+- **Responsibilities**: Developed and taught the Advanced Programming course.
+- **Study Plan**: [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
+- **Code Samples**: [GitHub - nmarsollier](https://github.com/nmarsollier/).
+- **Duration**: 2013 - 2023.
 
-**Course:** _Advanced programming_
+## Repositories
 
-- [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579)
-- React, Node with Typescript
-- Code Samples: [github.com/nmarsollier](https://github.com/nmarsollier/)
-- Duration: 2013 - 2023
+- **Fit Fat Android App**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
 
-### Repositories
+  - Controls fat and weight in different ways.
+  - MVI Demo app in two versions: Android SDK and Jetpack Compose.
 
-[Fit Fat Android App](https://github.com/nmarsollier/fit_fat) Controls the Fat and Weight in different ways. MVI Demo app  in 2 versions Android SDK and Jetpack Compose
+- **Fit Fat in React Native**: [GitHub - Fit Fat React Native](https://github.com/nmarsollier/fit_fat_react_native)
 
-[Fit Fat in React Native](https://github.com/nmarsollier/fit_fat_react_native) Same as above but in RN.
+  - Same functionality as the Android app but implemented in React Native.
 
-[Ecommerce Microservices](https://github.com/nmarsollier/ecommerce) Ecommerce microservices environment for Educations purposes. 5 Microservices wrote in Golang, Typescript, Java and Kotlin.
+- **Ecommerce Microservices**: [GitHub - Ecommerce](https://github.com/nmarsollier/ecommerce)
 
-[Golang Tutorial](https://github.com/nmarsollier/go_index) Golang advanced Ideas and techniques. Some crazy ideas and good code to share.
+  - Ecommerce microservices environment for educational purposes.
+  - Includes 5 microservices written in Golang, TypeScript, Java, and Kotlin.
 
-[Battery Switch Widget for Android](https://github.com/nmarsollier/batteryswitch) With tasmota support can switch the battery charger when battery is 80% and turn on when it is 15%.
+- **Golang Tutorial**: [GitHub - Golang Tutorial](https://github.com/nmarsollier/go_index)
 
-[Volume Widget for Android](https://github.com/nmarsollier/volumewidget) A widget to control volume.
+  - Advanced Golang ideas and techniques.
+  - Includes innovative concepts and high-quality code.
 
-[My IP Widget for Android](https://github.com/nmarsollier/myipwidget) Shows the local ip in a widget.
+- **Battery Switch Widget for Android**: [GitHub - Battery Switch](https://github.com/nmarsollier/batteryswitch)
 
-[QR Barcode](https://github.com/nmarsollier/go_barcode) For demo purposes, generates barcode from a string. Golang.
+  - Switches the battery charger on/off based on battery percentage.
+  - Supports Tasmota.
 
-[Semver Json Store](https://github.com/nmarsollier/semver_resource_server) Useful to download text resources in mobile apps controlling versions. Typescript/Node. This code is for educational purposes so it is simple.
+- **Volume Widget for Android**: [GitHub - Volume Widget](https://github.com/nmarsollier/volumewidget)
 
-[Document Store](https://github.com/nmarsollier/document_store) A document store in Golang. This code is for educational purposes so it is simple.
+  - A widget to control volume on Android devices.
 
-[Card Game in React](https://github.com/nmarsollier/card_game_react) Backend for Card Game in React. This code is for educational purposes so it is simple.
+- **My IP Widget for Android**: [GitHub - My IP Widget](https://github.com/nmarsollier/myipwidget)
 
-[4 in line game](https://github.com/nmarsollier/cuatrolinea) Another game. This code is for educational purposes so it is simple.
+  - Displays the local IP address in a widget.
 
-[Crosswords board generator](https://github.com/nmarsollier/crosswords) Rebuilding old lost project. Many interesting resolution problems techniques. Java code. Another spike.
+- **QR Barcode**: [GitHub - QR Barcode](https://github.com/nmarsollier/go_barcode)
 
-[React lessons](https://github.com/nmarsollier/react_lessons) For educational purposes with good a bad examples.
+  - Generates barcodes from strings for demo purposes.
+  - Implemented in Golang.
 
-[Javascript Lessons](https://github.com/nmarsollier/javascript_lessons) For educational purposes with good a bad examples.
+- **Semver Json Store**: [GitHub - Semver Json Store](https://github.com/nmarsollier/semver_resource_server)
 
-[Node lessons](https://github.com/nmarsollier/node_lessons) For educational purposes with good a bad examples.
+  - Downloads text resources in mobile apps while controlling versions.
+  - Implemented in TypeScript/Node.js for educational purposes.
 
+- **Document Store**: [GitHub - Document Store](https://github.com/nmarsollier/document_store)
+
+  - A simple document store implemented in Golang for educational purposes.
+
+- **Card Game in React**: [GitHub - Card Game](https://github.com/nmarsollier/card_game_react)
+
+  - Backend for a card game implemented in React.
+  - Designed for educational purposes.
+
+- **4 in Line Game**: [GitHub - 4 in Line](https://github.com/nmarsollier/cuatrolinea)
+
+  - A simple game for educational purposes.
+
+- **Crosswords Board Generator**: [GitHub - Crosswords](https://github.com/nmarsollier/crosswords)
+
+  - Generates crossword boards.
+  - Includes interesting problem-solving techniques.
+  - Implemented in Java.
+
+- **React Lessons**: [GitHub - React Lessons](https://github.com/nmarsollier/react_lessons)
+
+  - Educational repository with good and bad examples of React code.
+
+- **JavaScript Lessons**: [GitHub - JavaScript Lessons](https://github.com/nmarsollier/javascript_lessons)
+
+  - Educational repository with good and bad examples of JavaScript code.
+
+- **Node Lessons**: [GitHub - Node Lessons](https://github.com/nmarsollier/node_lessons)
+  - Educational repository with good and bad examples of Node.js code.
