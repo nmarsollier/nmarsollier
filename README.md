@@ -246,3 +246,5 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 - **Node Lessons**: [GitHub - Node Lessons](https://github.com/nmarsollier/node_lessons)
   - Educational repository with good and bad examples of Node.js code.
+
+- **Architecures**: [Architecures](DIAGRAMS.md)
