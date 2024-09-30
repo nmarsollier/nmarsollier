@@ -127,7 +127,6 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Applied event-driven architecture using MVVM, MVC, Repository, DAO (API), and various design patterns including Creational Patterns, Observers, State, Strategy, Command, Adapter, and IoC.
 - Employed tools like Jira, Bugsnag, Google Suite, Zeplin, GitHub, Slack, and Jenkins for project management and collaboration.
 - Followed Agile and Waterfall methodologies to ensure timely delivery and high-quality software.
-
 - **Architecture**: Fragment-based navigation, MVC, MVVM, Espresso, Robolectric.
 - **Languages**: Java, Kotlin.
 - **Libraries**: Jetpack, OkHttp, Retrofit, LiveData, Picasso, PlayServices, Firebase, Gson, AndroidX, PayPal Here, JUnit, Room, OrmLite, Analytics, Facebook Login.
@@ -245,6 +244,7 @@ Experienced Android and Backend developer with a strong background in teaching a
   - Educational repository with good and bad examples of JavaScript code.
 
 - **Node Lessons**: [GitHub - Node Lessons](https://github.com/nmarsollier/node_lessons)
+
   - Educational repository with good and bad examples of Node.js code.
 
 - **Architecures**: [Architecures](DIAGRAMS.md)
