@@ -56,6 +56,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Duration**: 03/2024 - Present  
 **Project**: JOAN
 
+- Acted as software developer.
 - Working on software refactoring in React Native with Expo Go.
 
 ### Dept Argentina
@@ -65,8 +66,12 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Project**: Prismacolor+
 
 - Developed Prismacolor+, a customer acquisition project.
+- Acted as Technical Leader, overseeing the architecture and development of the Android platform.
 - Implemented Eventual MVI architecture, Coroutines with flows, and Koin Dependency Injection.
 - Utilized technologies including Android SDK, Kotlin, Azure, Retrofit, Jetpack Compose, Figma, Slack, and Coil.
+- Coordinated with cross-functional teams to ensure seamless integration and delivery of features.
+- Implemented best practices for code quality, testing, and deployment.
+- Mentored junior developers and provided guidance on architectural decisions.
 
 ### PayPal
 
@@ -76,7 +81,9 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 - Developed the Android UI for Mastercard Benefits.
 - Created engagement screens, account summary, transaction details, and payment schedules.
-- Utilized common patterns such as event-driven architecture using MVI, Coroutines with flows, and Dagger/Hilt for dependency injection.
+- Implemented event-driven architecture using MVI, Coroutines with flows, and Dagger/Hilt for dependency injection.
+- Collaborated with cross-functional teams to ensure seamless integration and delivery of features.
+- Conducted code reviews and implemented best practices for code quality and testing.
 - **Technologies**: Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), Navigation framework, DataDog, Jira, Figma, Confluence, Slack.
 
 ### Mercadopago
@@ -91,17 +98,19 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Designed and developed money in flows (ask for money, get paid, request income).
 - Designed and developed money out flows (send money, organize contacts, pay).
 - Led technical solutions and implemented core solutions.
-- Coached developers on technologies and architectures.
+- Programmed 2 microservices to enhance system functionality and performance.
 - **Technologies**: Microservices, Amazon AWS, MySQL, Object Storage, KWS, Apache Kafka, JavaScript, TypeScript, GoLang, Functional style programming, 3 layers of abstraction, MVC, Creational, Adapters, Strategy, Chain of Responsibility.
 
 #### Android
 
 **Project**: Money In - Money Out
 
+- Acted as Technical Leader, overseeing the architecture and development of the project.
 - Designed and developed money in flows (ask for money, get paid, request income).
+- Managed a team of 6 junior developers, coordinating the development of 4 modules and 3 libraries.
 - Designed and developed money out flows (send money, organize contacts, pay).
 - Led technical solutions and implemented core solutions.
-- Coached developers on technologies and architectures.
+- Coached developers on technologies and architectures, ensuring adherence to best practices.
 - **Technologies**: Deeplinkable activity-based architecture, MVC & MVVM, AndroidX Test, Espresso, Kotlin, Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps, Event-driven architecture using MVVM, MVC, Repository, Dao (API), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC, Jira, Bugsnag, Google Suite, Zeplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Waterfall, Kafka.
 
 ### Eventbrite
@@ -109,6 +118,15 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Senior Software Engineer II**  
 **Duration**: 07/2016 - 05/2020  
 **Project**: Organizer App
+
+- Responsible for all architectural and development decisions.
+- Refactored the application twice to improve performance, maintainability, and scalability.
+- Designed and implemented a fragment-based navigation system using MVC and MVVM architectures.
+- Developed features using Java and Kotlin, ensuring high code quality and adherence to best practices.
+- Utilized libraries such as Jetpack, OkHttp, Retrofit, LiveData, Picasso, PlayServices, Firebase, Gson, AndroidX, PayPal Here, JUnit, Room, OrmLite, Analytics, and Facebook Login.
+- Applied event-driven architecture using MVVM, MVC, Repository, DAO (API), and various design patterns including Creational Patterns, Observers, State, Strategy, Command, Adapter, and IoC.
+- Employed tools like Jira, Bugsnag, Google Suite, Zeplin, GitHub, Slack, and Jenkins for project management and collaboration.
+- Followed Agile and Waterfall methodologies to ensure timely delivery and high-quality software.
 
 - **Architecture**: Fragment-based navigation, MVC, MVVM, Espresso, Robolectric.
 - **Languages**: Java, Kotlin.
@@ -123,9 +141,11 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Duration**: 01/2011 - 05/2014  
 **Project**: Redbus
 
+- Acted as Architect and Senior Developer, leading a team of 2 developers.
 - Developed and architected solutions for the Redbus project.
-- Designed and implemented web services.
+- Designed and implemented web services to enhance system functionality.
 - Utilized technologies including Android, JSP, Java Spring, Oracle, PostgreSQL, NFC, C++, REST, and Kafka.
+- Ensured high code quality and adherence to best practices through code reviews and mentoring.
 
 ### Previous Experience
 
