@@ -50,19 +50,17 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 ## Professional Experience
 
-### JOANN
+### Dept Argentina
 
-**Sr React Native Developer**  
-**Duration**: 03/2024 - Present  
+**Principal II React Native Developer**  
+**Duration**: 04/2024 - Present   
 **Project**: JOAN
 
 - Acted as software developer.
 - Working on software refactoring in React Native with Expo Go.
 
-### Dept Argentina
-
 **Principal II Android Developer**  
-**Duration**: 08/2023 - Present  
+**Duration**: 08/2023 - 04/2024  
 **Project**: Prismacolor+
 
 - Developed Prismacolor+, a customer acquisition project.
@@ -72,6 +70,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Coordinated with cross-functional teams to ensure seamless integration and delivery of features.
 - Implemented best practices for code quality, testing, and deployment.
 - Mentored junior developers and provided guidance on architectural decisions.
+
 
 ### PayPal
 
