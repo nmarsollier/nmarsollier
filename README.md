@@ -53,11 +53,17 @@ Experienced Android and Backend developer with a strong background in teaching a
 ### Dept Argentina
 
 **Principal II React Native Developer**  
-**Duration**: 04/2024 - Present   
+**Duration**: 04/2024 - Present  
 **Project**: JOAN
 
 - Acted as software developer.
 - Working on software refactoring in React Native with Expo Go.
+- Utilized tools like Zustand for state management, React Query for data fetching, and various form libraries.
+- **Methodologies**: Agile.
+- **Architecture**: Component-based architecture.
+- **Languages**: JavaScript, TypeScript.
+- **Libraries**: Zustand, React Query.
+- **Tools**: Expo Go.
 
 **Principal II Android Developer**  
 **Duration**: 08/2023 - 04/2024  
@@ -70,7 +76,12 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Coordinated with cross-functional teams to ensure seamless integration and delivery of features.
 - Implemented best practices for code quality, testing, and deployment.
 - Mentored junior developers and provided guidance on architectural decisions.
-
+- **Methodologies**: Agile.
+- **Architecture**: Eventual MVI architecture.
+- **Languages**: Kotlin.
+- **Libraries**: Android SDK, Retrofit, Jetpack Compose, Koin.
+- **Design Patterns**: MVI, Dependency Injection.
+- **Tools**: Figma, Slack, Azure.
 
 ### PayPal
 
@@ -83,9 +94,14 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Implemented event-driven architecture using MVI, Coroutines with flows, and Dagger/Hilt for dependency injection.
 - Collaborated with cross-functional teams to ensure seamless integration and delivery of features.
 - Conducted code reviews and implemented best practices for code quality and testing.
-- **Technologies**: Android SDK, Kotlin, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), Navigation framework, DataDog, Jira, Figma, Confluence, Slack.
+- **Methodologies**: Agile.
+- **Architecture**: Event-driven architecture, Model-View-Intent (MVI).
+- **Languages**: Kotlin.
+- **Libraries**: Android SDK, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), Navigation framework, Dagger/Hilt.
+- **Design Patterns**: MVI, Dependency Injection.
+- **Tools**: DataDog, Jira, Figma, Confluence, Slack.
 
-### Mercadopago
+### Mercado Pago
 
 **Technical Leader**  
 **Duration**: 05/2020 - 09/2021
@@ -98,7 +114,12 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Designed and developed money out flows (send money, organize contacts, pay).
 - Led technical solutions and implemented core solutions.
 - Programmed 2 microservices to enhance system functionality and performance.
-- **Technologies**: Microservices, Amazon AWS, MySQL, Object Storage, KWS, Apache Kafka, JavaScript, TypeScript, GoLang, Functional style programming, 3 layers of abstraction, MVC, Creational, Adapters, Strategy, Chain of Responsibility.
+- **Methodologies**: Agile.
+- **Architecture**: Microservices architecture, 3 layers of abstraction, MVC.
+- **Languages**: JavaScript, TypeScript, GoLang.
+- **Libraries**: Amazon AWS, MySQL, Object Storage, KWS, Apache Kafka.
+- **Design Patterns**: Creational, Adapters, Strategy, Chain of Responsibility.
+- **Tools**: Amazon AWS, Apache Kafka, MySQL.
 
 #### Android
 
@@ -110,7 +131,12 @@ Experienced Android and Backend developer with a strong background in teaching a
 - Designed and developed money out flows (send money, organize contacts, pay).
 - Led technical solutions and implemented core solutions.
 - Coached developers on technologies and architectures, ensuring adherence to best practices.
-- **Technologies**: Deeplinkable activity-based architecture, MVC & MVVM, AndroidX Test, Espresso, Kotlin, Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps, Event-driven architecture using MVVM, MVC, Repository, Dao (API), Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC, Jira, Bugsnag, Google Suite, Zeplin, CircleCI, GitHub, DataDog, Trello, Slack, Agile, Waterfall, Kafka.
+- **Methodologies**: Agile, Waterfall.
+- **Architecture**: Event-driven architecture, MVC, MVVM.
+- **Languages**: Kotlin.
+- **Libraries**: AndroidX Test, Espresso, Jetpack, OkHttp, Retrofit, ktx extensions, LiveData, AndroidX, Picasso, MockWebServer, PlayServices, Firebase, Gson, Google Maps.
+- **Design Patterns**: Creational Patterns, Observers, State, Strategy, Command, Adapter, IoC.
+- **Tools**: Jira, Bugsnag, Google Suite, Zeplin, CircleCI, GitHub, DataDog, Trello, Slack, Kafka.
 
 ### Eventbrite
 
@@ -140,15 +166,240 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Project**: Redbus
 
 - Acted as Architect and Senior Developer, leading a team of 2 developers.
-- Developed and architected solutions for the Redbus project.
 - Designed and implemented web services to enhance system functionality.
-- Utilized technologies including Android, JSP, Java Spring, Oracle, PostgreSQL, NFC, C++, REST, and Kafka.
-- Ensured high code quality and adherence to best practices through code reviews and mentoring.
+- Utilized technologies including Android, JSP, Java Spring, Oracle, PostgreSQL, NFC, C++, REST.
+- Managed and processed large amounts of data efficiently.
+- Implemented data synchronization mechanisms to ensure data consistency across the system.
+- Developed data consolidation strategies for accurate and reliable data aggregation.
+- Ensured consistency control across various system components.
+- Developed features for card balance management.
+- Implemented control over decentralized transaction processing to enhance system reliability.
+- Applied object-oriented architecture using domain-driven design (DDD) principles to structure the system effectively.
+- Ensured high code quality and adherence to best practices through code reviews.
+- Provided mentoring and technical guidance to team members.
+- **Architecture**: Object-oriented architecture, domain-driven design (DDD).
+- **Languages**: Java, JSP, C++.
+- **Libraries**: Spring, NFC, REST.
+- **Design Patterns**: Singleton, Factory, Observer, Strategy.
+- **Tools**: Jira, GitHub, Jenkins.
+- **Methodologies**: Agile, Waterfall.
+
+### Belatrix S.A.
+
+**Senior Developer**  
+**Duration**: 03/2010 - 01/2011  
+**Project**: StoneRiver
+
+- Acted as Senior Developer for the StoneRiver project.
+- Developed and maintained applications using Spring, Mule, Java, and Flex.
+- Worked with databases including DB2 and MySQL.
+- Followed Agile methodologies and used Rally for project management.
+- **Methodologies**: Agile.
+- **Architecture**: Service-oriented architecture (SOA).
+- **Languages**: Java.
+- **Libraries**: Spring, Mule, Flex.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Rally, Eclipse, DB2, MySQL.
+
+**Senior Developer**  
+**Duration**: 08/2009 - 03/2010  
+**Project**: Talent
+
+- Acted as Senior Developer for the Talent project.
+- Developed applications using Spring, Java, JSP, and Hibernate.
+- Followed Agile methodologies and used Rally for project management.
+- **Methodologies**: Agile.
+- **Architecture**: Model-View-Controller (MVC).
+- **Languages**: Java, JSP.
+- **Libraries**: Spring, Hibernate.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Rally, Eclipse, MySQL.
+
+### Hewlett Packard Argentina
+
+**Specialist Developer**  
+**Duration**: 02/2008 - 08/2009  
+**Project**: SABRE AACoRN System
+
+- Acted as Senior Developer for the SABRE AACoRN System project.
+- Developed applications using Java, Swing, EJB2, and Oracle.
+- Worked with technologies including SABRE, Web Services, JSP, JaxWS, Axis 2, and Ant.
+- Followed CMMI Level 3 standards and used tools like JIRA, Accurev, UML, StarTeam, and SAP.
+- Designed and implemented core functionalities for the SABRE AACoRN System, ensuring high performance and reliability.
+- Developed complex user interfaces using Swing for a seamless user experience.
+- Integrated various web services and ensured smooth communication between different system components.
+- Utilized EJB2 for building scalable and transactional business applications.
+- Conducted code reviews and enforced best practices to maintain high code quality.
+- Collaborated with cross-functional teams to gather requirements and deliver robust solutions.
+- Provided technical support and training to team members and end-users.
+- **Methodologies**: Agile.
+- **Architecture**: Service-oriented architecture (SOA).
+- **Languages**: Java, JSP.
+- **Libraries**: Swing, EJB2, JaxWS, Axis 2.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: JIRA, Accurev, UML, StarTeam, SAP.
+
+### Suris S.A.
+
+**Developer**  
+**Duration**: 01/2007 - 02/2008  
+**Project**: Senectus / Vitae System
+
+- Acted as Developer for the Senectus / Vitae System project.
+- Developed applications using Java, Spring, ExtJS, and Hibernate.
+- Designed and implemented REST APIs for seamless communication between client and server.
+- Worked with SVN for version control, Eclipse as the development environment, and MySQL for database management.
+- Ensured robust and scalable application architecture.
+- Conducted unit testing and debugging to maintain code quality.
+- Collaborated with cross-functional teams to gather requirements and deliver solutions.
+- **Architecture**: RESTful architecture.
+- **Languages**: Java.
+- **Libraries**: Spring, ExtJS, Hibernate.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: SVN, Eclipse, MySQL.
+- **Methodologies**: Agile.
+
+### Imaquio S.A.
+
+**Technical Leader & Developer**  
+**Duration**: 01/2002 - 01/2005  
+**Project**: Nuebus
+
+- Acted as Architect & Technical Leader for the Nuebus project.
+- Developed object-oriented applications with domain-driven design principles.
+- Utilized technologies including Java, JSP, and Oracle.
+- This was a system to sell long-distance tickets.
+- Designed and implemented core functionalities for ticket booking and management.
+- Ensured high availability and reliability of the system, which is still in operation.
+- **Methodologies**: Waterfall.
+- **Architecture**: Object-oriented architecture, domain-driven design (DDD).
+- **Languages**: Java, JSP.
+- **Libraries**: Oracle.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Eclipse, Oracle.
+
+**Technical Leader**  
+**Duration**: 01/2005 - 01/2007  
+**Project**: Amadeus Client
+
+- Acted as Technical Leader for the Amadeus Client project.
+- Developed applications using EJB 2, Oracle, and Web Services.
+- Developed JSP-based user interfaces for seamless user experience.<>
+- This was a system to sell tickets for an airline.
+- Designed and implemented core functionalities for ticket booking and management.
+- Collaborated with cross-functional teams to integrate various services and APIs.
+- Conducted performance tuning and optimization to enhance system efficiency.
+- **Methodologies**: Waterfall.
+- **Architecture**: Service-oriented architecture (SOA).
+- **Languages**: Java, JSP.
+- **Libraries**: EJB 2, Oracle, Web Services.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Eclipse, Oracle.
+
+### CRICYT
+
+**Developer, Designer, Analyst**  
+**Duration**: 05/2006 - 06/2007  
+**Project**: Employee assistance control system
+
+- Developed and designed the employee assistance control system.
+- Used Java, Swing, and PostgreSQL.
+- Implemented an Event Sourcing Database for reliable event tracking.
+- Applied real object-oriented architecture with CQRS (Command Query Responsibility Segregation) to separate read and write operations.
+- Maintained the event store for capturing application state changes.
+- Projections to modify assistance motives in the past, ensuring accurate historical data.
+- Provided technical support and training to users.
+- **Methodologies**: Waterfall.
+- **Architecture**: Object-oriented architecture, CQRS.
+- **Languages**: Java.
+- **Libraries**: Swing, PostgreSQL.
+- **Design Patterns**: Event Sourcing, CQRS.
+- **Tools**: Eclipse, PostgreSQL.
+
+### Senectus
+
+**Developer, Architect**  
+**Duration**: 01/2000 - 01/2002  
+**Project**: Wine traceability system
+
+- Engineered, conceptualized, and evaluated the wine traceability system.
+- Leveraged technologies such as Fox Pro.
+- Guaranteed system scalability and enhanced performance.
+- Partnered with cross-functional teams to collect and refine requirements.
+- Performed code inspections and enforced best practices for code integrity.
+- Led a team of 3 developers.
+- **Methodologies**: Waterfall.
+- **Architecture**: Object-oriented architecture.
+- **Languages**: Fox Pro.
+- **Libraries**: N/A.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Fox Pro.
+
+### Altamed
+
+**Developer, Architect**  
+**Duration**: 05/1998 - 01/2000  
+**Project**: Medicine insurance system
+
+- Developed, designed, and analyzed the medicine insurance system.
+- Utilized technologies including Fox Pro.
+- Ensured system scalability and performance optimization.
+- Collaborated with cross-functional teams to gather and refine requirements.
+- Conducted code reviews and implemented best practices for code quality.
+- Provided technical support and training to end-users.
+- **Methodologies**: Waterfall.
+- **Architecture**: Object-oriented architecture.
+- **Languages**: Fox Pro.
+- **Libraries**: N/A.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Fox Pro.
+
+### Banco de Prevision Social
+
+**Developer**
+**Duration**: 08/1996 - 05/1998  
+**Project**: Office supply tracking system
+
+- Developed, designed, and analyzed the office supply tracking system.
+- Acted as the architect for the refactor to convert the applications to Fox Pro.
+- Utilized technologies including Clipper and Fox.
+- Ensured system scalability and performance optimization.
+- Collaborated with cross-functional teams to gather and refine requirements.
+- Conducted code reviews and implemented best practices for code quality.
+- Provided technical support and training to end-users.
+- **Methodologies**: Waterfall.
+- **Architecture**: Object-oriented architecture.
+- **Languages**: Clipper, Fox Pro.
+- **Libraries**: N/A.
+- **Design Patterns**: MVC, DAO.
+- **Tools**: Clipper, Fox Pro.
 
 ### Previous Experience
 
 - **Technologies**: Clipper, Fox, Fox Pro, Basic, Pascal, Java, JSP, EJB, HTTP, JavaScript, HTML, Oracle, MySQL, PostgreSQL, SQL Server.
+
+  - **Clipper**: Used for developing database applications.
+  - **Fox/Fox Pro**: Utilized for building data-centric applications with a focus on performance and scalability.
+  - **Basic**: Employed for early-stage programming and scripting tasks.
+  - **Pascal**: Applied for structured programming and algorithm development.
+  - **Java**: Leveraged for building robust, high-performance applications.
+  - **JSP**: Used for creating dynamic web pages and server-side applications.
+  - **EJB**: Utilized for developing scalable, transactional, and multi-tier enterprise applications.
+  - **HTTP**: Applied for web communication and data transfer.
+  - **JavaScript**: Used for client-side scripting and enhancing user interfaces.
+  - **HTML**: Employed for structuring web content.
+  - **Oracle**: Utilized for managing large-scale databases.
+  - **MySQL**: Used for relational database management and data storage.
+  - **PostgreSQL**: Leveraged for advanced database management and complex queries.
+  - **SQL Server**: Applied for enterprise-level database solutions and data warehousing.
+
 - **Roles**: Various development and architecture roles since 1996.
+  - **Developer**: Responsible for coding, debugging, and implementing software solutions.
+  - **Designer**: Involved in creating software designs and architecture.
+  - **Analyst**: Conducted system analysis and requirement gathering.
+  - **Architect**: Designed and planned software architecture and system integration.
+  - **Technical Leader**: Led development teams and provided technical guidance.
+  - **Mentor**: Provided training and support to junior developers.
 
 ### UTN Universidad Tecnológica Nacional
 
