@@ -32,7 +32,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Architect**: MercadoPago
 - **Methodologies**: Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
 - **Companies**: Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos
-- **Sample Work**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
+- **Code Samples**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
 
 ### Backend Developer
 
@@ -41,12 +41,15 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Frameworks**: JSP, EJB 2 and 3, Spring stack, REST applications
 - **Databases**: SQL (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Key-Value (Redis)
 - **Key Skills**: High-performance monolith applications, direct access, various ORMs
-- **Sample Work**: [GitHub - Ecommerce](https://github.com/nmarsollier/ecommerce), [Golang Tutorial](https://github.com/nmarsollier/go_index)
+- **Code Samples**:
+  - [Many Microservices in Go and other languages](https://github.com/nmarsollier/ecommerce),
+  - [Golang Tutorial](https://github.com/nmarsollier/go_index)
 
 ### Teacher
 
 - **Institution**: UTN (University)
-- **Courses**: Advanced Programming, [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
+- **Courses**: Advanced Programming
+- **Code Samples**: [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
 
 ## Professional Experience
 
