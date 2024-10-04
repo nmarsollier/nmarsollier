@@ -1,5 +1,7 @@
 # Professional Quick Overview
 
+![Companies](./empresas.svg)
+
 ## Dept Argentina
 
 ![Prismacolor](./Prismacolor.svg)
