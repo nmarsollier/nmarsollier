@@ -1,7 +1,5 @@
 # Néstor Rubén Marsollier
 
-This page can be dowsloaded as [pdf](Profile_ATS.pdf)
-
 ## Contact Information
 
 - **Email**: nmarsollier@gmail.com
@@ -50,7 +48,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 ### Teacher
 
 - **Institution**: UTN (University)
-- **Courses**: Microservices Architecture 
+- **Courses**: Microservices Architecture
 - **Code Samples**: [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
 
 ## Professional Experience
