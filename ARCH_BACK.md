@@ -2,7 +2,20 @@
 
 ![Companies](./empresas.svg)
 
-## CRICYT
+- **30 years of experience** : Single apps (5) - Fullstack (18) - Backend only (8) - Android (12) - Microservices (3) - Teching Microservices ()
+- **Programming Languages** : Clipper - Fox - Visual Fox - Java - Kotlin - Typescript
+- **Architectures** : Single Apps - Client/Server - 3 Layered - SOA - Microservices
+
+## NIT Company
+
+![Nuebus](./Nuebus.svg)
+
+- Object-oriented architecture.
+- In house developed framework to access business models.
+- Oracle DB
+- WebServices
+
+## NIT Company
 
 ![Cricyt](./Cricyt.svg)
 
@@ -11,15 +24,6 @@
 - Object-oriented architecture, with DDD like focus
 - Event Sourcing with CQRS.
 - Data Projections and reduction.
-
-## Imaquio S.A.
-
-![Nuebus](./Nuebus.svg)
-
-- Object-oriented architecture.
-- In house developed framework to access business models.
-- Oracle DB
-- WebServices
 
 ## Siemens - Atos Corp
 
@@ -34,19 +38,6 @@
 - Data reduce from different sources
 - Master/Shard and Historical DB schemas
 - Late Consistency control.
-
-## UTN FRM Microservices Cathedra
-
-I teach
-
-- Domain Driven Design
-- Sam Newman Microservice's book
-- CQRS and Event Sourcing
-
-- RabbitMQ, Rest
-- Docker, Compose
-- Java, Kotlin, Go, Typescript, Python
-- Orchestation and Coreography
 
 ## Mercado Pago
 
@@ -64,9 +55,20 @@ I teach
 - Apollo Server
 - Splunk, DataDog
 
-# My Coding Principles
+## National Technology University - Microservices Cathedra
 
-## Kiss and YAGNI
+- Domain Driven Design
+- Sam Newman Microservice's book
+- CQRS and Event Sourcing
+
+- RabbitMQ, Rest
+- Docker, Compose
+- Java, Kotlin, Go, Typescript, Python
+- Orchestration and Coreography
+
+## My Coding Practices
+
+### Kiss and YAGNI
 
 I always try to keep things simple, but not forgetting GRASP Principles
 
@@ -76,7 +78,7 @@ I always try to keep things simple, but not forgetting GRASP Principles
 - Simplicity
 - Easy Refactoring
 
-## Dry
+### Dry
 
 Try to reuse the code when it represent the same business logic
 
@@ -86,7 +88,7 @@ Try to reuse the code when it represent the same business logic
 - Reusability
 - Encapsulation
 
-## Continuous Refactoring
+### Continuous Refactoring
 
 - Architecture updated
 - Better code quality
