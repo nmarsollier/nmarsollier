@@ -3,7 +3,7 @@
 ## Contact Information
 
 - **Email**: nmarsollier@gmail.com
-- **LinkedIn**: [linkedin.com/in/nestor-marsollier-a2006117](https://www.linkedin.com/in/nestor-marsollier-a2006117)
+- **LinkedIn**: [linkedin.com/in/nmarsollier](https://www.linkedin.com/in/nmarsollier)
 - **Phone**: +54 261 503 5118
 - **Address**: Villa Nueva, Guaymallén, Mendoza, Argentina
 
