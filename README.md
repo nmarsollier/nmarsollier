@@ -4,6 +4,7 @@
 
 - **Email**: nmarsollier@gmail.com
 - **LinkedIn**: [linkedin.com/in/nmarsollier](https://www.linkedin.com/in/nmarsollier)
+- **GitHub**: [github.com/nmarsollier](https://github.com/nmarsollier)
 - **Phone**: +54 261 503 5118
 - **Address**: Villa Nueva, Guaymallén, Mendoza, Argentina
 
