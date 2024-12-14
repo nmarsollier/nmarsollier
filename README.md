@@ -27,7 +27,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 ### Android Native Developer
 
 - **Experience**: Since 2011
-- **Technologies**: Android SDK, Kotlin, Jetpack Compose, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
+- **Technologies**: Android SDK, Kotlin, Jetpack Compose, Kotlin Multiplatform, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
 - **Key Skills**: Kotlin, Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
 - **Roles**: Technical Leader for Mobile at MercadoPago, Eventbrite
 - **Architect**: MercadoPago
@@ -81,7 +81,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Methodologies**: Agile.
 - **Architecture**: Eventual MVI.
 - **Languages**: Kotlin.
-- **Libraries**: Android SDK, Retrofit, Jetpack Compose, Koin.
+- **Libraries**: Jetpack Compose, Kotlin MP.
 - **Design Patterns**: MVI, Dependency Injection.
 - **Tools**: Figma, Slack, Azure.
 
