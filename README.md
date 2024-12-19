@@ -54,6 +54,18 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 ## Professional Experience
 
+### AirBnb
+
+**Sr Software Developer**  
+**Duration**: 2024 - Present  
+**Project**: Viaduct Open Source
+
+- Working on software refactoring to make Viaduct available Open Source.
+- **Methodologies**: Watherfall.
+- **Architecture**: Open Source Framework.
+- **Languages**: Kotlin - Java.
+- **Libraries**: Apollo Federation.
+
 ### Dept Argentina
 
 **Principal II React Native Developer**  
