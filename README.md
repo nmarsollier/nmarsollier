@@ -24,17 +24,6 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 ## Skills
 
-### Android Native Developer
-
-- **Experience**: Since 2011
-- **Technologies**: Android SDK, Kotlin, Jetpack Compose, Kotlin Multiplatform, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
-- **Key Skills**: Kotlin, Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
-- **Roles**: Technical Leader for Mobile at MercadoPago, Eventbrite
-- **Architect**: MercadoPago
-- **Methodologies**: Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
-- **Companies**: Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos
-- **Code Samples**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
-
 ### Backend Developer
 
 - **Experience**: Senior backend developer with expertise in monolith, SOA, and microservices architectures, including DDD when supported by the language.
@@ -45,6 +34,17 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Code Samples**:
   - [Many Microservices in Go and other languages](https://github.com/nmarsollier/ecommerce),
   - [Golang Tutorial](https://github.com/nmarsollier/go_index)
+
+### Android Native Developer
+
+- **Experience**: Since 2011
+- **Technologies**: Android SDK, Kotlin, Jetpack Compose, Kotlin Multiplatform, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
+- **Key Skills**: Kotlin, Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
+- **Roles**: Technical Leader for Mobile at MercadoPago, Eventbrite
+- **Architect**: MercadoPago
+- **Methodologies**: Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
+- **Companies**: Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos
+- **Code Samples**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
 
 ### Teacher
 
