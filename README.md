@@ -24,6 +24,28 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 ## Skills
 
+### Personal Projects
+
+**Golang Microservices for E-Commerce**
+
+- 5 Microservices
+- Different architectures styles from functional up to clean
+- DB Polymorphism: Redis, PostgresSQL, Mongo
+- Different storage techniques: Documental, Relational, Event Sourcing
+- Restful api with gin
+- GraphQL apollo server to integrate microservices
+- RabbitMQ for async communication
+- High integration coverage with gomock.
+
+**Golang Tutorial**
+
+- With crazy ideas about coding techniques
+
+**Mobile**
+
+- Open source apps and code samples with MVI architecture and Compose multi platform.
+- Open source apps and code samples on React Native.
+
 ### Backend Developer
 
 - **Experience**: Senior backend developer with expertise in monolith, SOA, and microservices architectures, including DDD when supported by the language.
@@ -72,9 +94,9 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Duration**: 04/2024 - Present  
 **Project**: JOAN
 
-- Acted as software developer.
-- Working on software refactoring in React Native with Expo Go.
-- Utilized tools like Zustand for state management, React Query for data fetching, and various form libraries.
+- Successfully integrated Salesforce with React Native applications.
+- Developed and refactored software using React Native with Expo Go.
+- Leveraged Zustand for state management and Axios for data fetching.
 - **Methodologies**: Agile.
 - **Architecture**: Component-based architecture.
 - **Languages**: JavaScript, TypeScript.
@@ -84,6 +106,10 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Principal II Android Developer**  
 **Duration**: 08/2023 - 04/2024  
 **Project**: Prismacolor+
+**Achievements**:
+
+- Caught up within 6 months on an iOS project that had started 3 months earlier.
+- Full refactor to apply a solid app architecture.
 
 - Led the development of Prismacolor+, a customer acquisition project.
 - Oversaw the architecture and development of the Android platform.
@@ -93,7 +119,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Methodologies**: Agile.
 - **Architecture**: Eventual MVI.
 - **Languages**: Kotlin.
-- **Libraries**: Jetpack Compose, Kotlin MP.
+- **Libraries**: Jetpack Compose, Kotlin MP, EXO Player.
 - **Design Patterns**: MVI, Dependency Injection.
 - **Tools**: Figma, Slack, Azure.
 
@@ -102,6 +128,9 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Sr Android Developer**  
 **Duration**: 09/2021 - 08/2023  
 **Project**: Mastercard Credit Card Benefits
+**Achievements**:
+
+- Reach 98% of code coverage.
 
 - Built the Android UI for Mastercard Benefits.
 - Created engagement screens, account summary, transaction details, and payment schedules.
@@ -123,6 +152,9 @@ Experienced Android and Backend developer with a strong background in teaching a
 #### Backend
 
 **Project**: Money In - Money Out
+**Achievements**:
+
+- Fully refactor a microservice.
 
 - Designed and developed money in flows (ask for money, get paid, request income).
 - Created money out flows (send money, organize contacts, pay).
@@ -138,6 +170,11 @@ Experienced Android and Backend developer with a strong background in teaching a
 #### Android
 
 **Project**: Money In - Money Out
+**Achievements**:
+
+- Lead 12 developers.
+- Refactor a complex architecture.
+- Coach Jr developers up to Sr level.
 
 - Oversaw the architecture and development of the project.
 - Designed and developed money in flows (ask for money, get paid, request income).
@@ -157,6 +194,10 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Senior Software Engineer II**  
 **Duration**: 07/2016 - 05/2020  
 **Project**: Organizer App
+**Achievements**:
+
+- I was the one person Android project against the job done by 12 iOS devs on the other app.
+- Fully Refactor the app 2 times to adapt to new patterns. (java to kotlin, kotlin to MVVM reactive architecture)
 
 - Responsible for all architectural and development decisions.
 - Refactored the application twice to improve performance, maintainability, and scalability.
