@@ -36,6 +36,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 - GraphQL apollo server to integrate microservices
 - RabbitMQ for async communication
 - High integration coverage with gomock.
+- CorrelationID trace using Logrus for logging, storing logs into MongoDb.
 
 **Golang Tutorial**
 
