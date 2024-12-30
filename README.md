@@ -49,6 +49,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 ### Backend Developer
 
+- **Experience**: Since 1995
 - **Experience**: Senior backend developer with expertise in monolith, SOA, and microservices architectures, including DDD when supported by the language.
 - **Technologies**: GoLang, Java, Kotlin, Typescript, Javascript
 - **Frameworks**: JSP, EJB 2 and 3, Spring stack, REST applications
@@ -124,6 +125,19 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Design Patterns**: MVI, Dependency Injection.
 - **Tools**: Figma, Slack, Azure.
 
+**Backend Sr Developer**  
+**Duration**: 08/2023 - 04/2024  
+**Project**: Financial software
+**Achievements**:
+
+- Maintain and develop new features in.
+- Applied best practices for code quality, testing, and deployment.
+- **Methodologies**: Agile.
+- **Architecture**: Eventual MVI.
+- **Languages**: Golang.
+- **Libraries**: Gin, Postgresql, Gomock.
+- **Design Patterns**: SOLID, Dependency Injection.
+
 ### PayPal
 
 **Sr Android Developer**  
@@ -164,8 +178,8 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Methodologies**: Agile.
 - **Architecture**: Microservices, 3 layers of abstraction, MVC.
 - **Languages**: JavaScript, TypeScript, GoLang.
-- **Libraries**: Amazon AWS, MySQL, Object Storage, KWS, Apache Kafka.
-- **Design Patterns**: Creational, Adapters, Strategy, Chain of Responsibility.
+- **Libraries**: Amazon AWS, EDS, Object Storage, KWS, Apache Kafka.
+- **Design Patterns**: Functional, Clean.
 - **Tools**: Amazon AWS, Apache Kafka, MySQL.
 
 #### Android
