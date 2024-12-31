@@ -16,10 +16,10 @@ jobs:
     - name: Install dependencies
       run: |
         sudo apt-get update
-        sudo apt-get install -y pandoc
+        sudo apt-get install -y pandoc texlive texlive-latex-extra texlive-fonts-recommended
 
     - name: Convert README.md to README.pdf
-      run: pandoc README.md -o README.pdf
+      run: pandoc README.md -o README.pdf --pdf-engine=pdflatex
 
     - name: Commit and push README.pdf
       run: |
