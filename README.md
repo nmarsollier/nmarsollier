@@ -426,7 +426,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 ### Banco de Prevision Social
 
 **Developer**  
-**Duration**: 08/1996 - 05/1998  
+**Duration**: 08/1995 - 05/1998  
 **Project**: Office supply tracking system
 
 - Developed, designed, and analyzed the office supply tracking system.
@@ -462,7 +462,7 @@ Experienced Android and Backend developer with a strong background in teaching a
   - **PostgreSQL**: Leveraged for advanced database management and complex queries.
   - **SQL Server**: Applied for enterprise-level database solutions and data warehousing.
 
-- **Roles**: Various development and architecture roles since 1996.
+- **Roles**: Various development and architecture roles since 1995.
   - **Developer**: Responsible for coding, debugging, and implementing software solutions.
   - **Designer**: Involved in creating software designs and architecture.
   - **Analyst**: Conducted system analysis and requirement gathering.
