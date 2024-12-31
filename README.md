@@ -569,3 +569,4 @@ Experienced Android and Backend developer with a strong background in teaching a
 ### Quick Overview of my most relevant experience
 
 [Quick Overview](ARCH.md)
+
