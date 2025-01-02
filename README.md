@@ -24,29 +24,6 @@ Experienced Android and Backend developer with a strong background in teaching a
 
 ## Skills
 
-### Personal Projects
-
-**Golang Microservices for E-Commerce**
-
-- 5 Microservices
-- Different architectures styles from functional up to clean
-- DB Polymorphism: Redis, PostgresSQL, Mongo
-- Different storage techniques: Documental, Relational, Event Sourcing
-- Restful api with gin
-- GraphQL apollo server to integrate microservices
-- RabbitMQ for async communication
-- High integration coverage with gomock.
-- CorrelationID trace using Logrus for logging, storing logs into MongoDb.
-
-**Golang Tutorial**
-
-- With crazy ideas about coding techniques
-
-**Mobile**
-
-- Open source apps and code samples with MVI architecture and Compose multi platform.
-- Open source apps and code samples on React Native.
-
 ### Backend Developer
 
 - **Experience**: Since 1995
@@ -56,8 +33,8 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Databases**: SQL (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Key-Value (Redis)
 - **Key Skills**: High-performance monolith applications, direct access, various ORMs
 - **Code Samples**:
-  - [Many Microservices in Go and other languages](https://github.com/nmarsollier/ecommerce),
-  - [Golang Tutorial](https://github.com/nmarsollier/go_index)
+  - [Microservices Demo app in Go with Clean Architecture](https://github.com/nmarsollier/ecommerce),
+  - [Go functional programming project](https://github.com/nmarsollier/resourcesgo),
 
 ### Android Native Developer
 
@@ -68,13 +45,17 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Architect**: MercadoPago
 - **Methodologies**: Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
 - **Companies**: Dept, PayPal, MercadoPago, Mercadolibre, Eventbrite, Athos
-- **Code Samples**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
+- **Code Samples**:
+  - [Fat Measurements in Kotlin with MVI](https://github.com/nmarsollier/fit_fat)
+  - [Nasa Pictures in Compose Multiplatform](https://github.com/nmarsollier/nasa_pictures_kmp)
 
 ### Teacher
 
 - **Institution**: UTN (University)
 - **Courses**: Microservices Architecture
 - **Code Samples**: [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
+
+### Personal Projects
 
 ## Professional Experience
 
@@ -480,7 +461,7 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Technologies**: Java, Angular, Golang, Node.js, TypeScript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka.
 - **Responsibilities**: Developed and taught the Microservices Architecture course.
 - **Study Plan**: [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
-- **Code Samples**: [GitHub - nmarsollier](https://github.com/nmarsollier/).
+- **Code Samples**: [nmarsollier](https://github.com/nmarsollier/).
 - **Duration**: 2018 - Present.
 
 #### Course: Advanced Programming
@@ -488,85 +469,82 @@ Experienced Android and Backend developer with a strong background in teaching a
 - **Technologies**: React, Node.js with TypeScript.
 - **Responsibilities**: Developed and taught the Advanced Programming course.
 - **Study Plan**: [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
-- **Code Samples**: [GitHub - nmarsollier](https://github.com/nmarsollier/).
+- **Code Samples**: [nmarsollier](https://github.com/nmarsollier/).
 - **Duration**: 2013 - 2023.
 
-## Repositories
+## Personal Project Repos
 
-- **Fit Fat Android App**: [GitHub - Fit Fat](https://github.com/nmarsollier/fit_fat)
+- **Nasa Pictures in Kotlin MVI**: [Nasa - CMP](https://github.com/nmarsollier/nasa_pictures)
+
+  - Shows pictures from nasa
+  - MVI Jetpack Compose.
+
+- **Nasa Pictures in Compose Multi platform**: [Nasa - CMP](https://github.com/nmarsollier/nasa_pictures_kmp)
+
+  - Shows pictures from nasa
+  - Jetpack Compose Multiplatform.
+
+- **Fit Fat Android App**: [Fit Fat](https://github.com/nmarsollier/fit_fat)
 
   - Controls fat and weight in different ways.
-  - MVI Demo app in two versions: Android SDK and Jetpack Compose.
+  - MVI Jetpack Compose.
 
-- **Fit Fat in React Native**: [GitHub - Fit Fat React Native](https://github.com/nmarsollier/fit_fat_react_native)
+- **Fit Fat in React Native**: [Fit Fat React Native](https://github.com/nmarsollier/fit_fat_react_native)
 
   - Same functionality as the Android app but implemented in React Native.
 
-- **Ecommerce Microservices**: [GitHub - Ecommerce](https://github.com/nmarsollier/ecommerce)
+- **Ecommerce Microservices**: [Ecommerce](https://github.com/nmarsollier/ecommerce)
 
   - Ecommerce microservices environment for educational purposes.
   - Includes 5 microservices written in Golang, TypeScript, Java, and Kotlin.
 
-- **Golang Tutorial**: [GitHub - Golang Tutorial](https://github.com/nmarsollier/go_index)
+- **Golang Tutorial**: [Golang Tutorial](https://github.com/nmarsollier/go_index)
 
   - Advanced Golang ideas and techniques.
   - Includes innovative concepts and high-quality code.
 
-- **Battery Switch Widget for Android**: [GitHub - Battery Switch](https://github.com/nmarsollier/batteryswitch)
+- **Battery Switch Widget for Android**: [Battery Switch](https://github.com/nmarsollier/batteryswitch)
 
   - Switches the battery charger on/off based on battery percentage.
   - Supports Tasmota.
 
-- **Volume Widget for Android**: [GitHub - Volume Widget](https://github.com/nmarsollier/volumewidget)
+- **Volume Widget for Android**: [Volume Widget](https://github.com/nmarsollier/volumewidget)
 
   - A widget to control volume on Android devices.
 
-- **My IP Widget for Android**: [GitHub - My IP Widget](https://github.com/nmarsollier/myipwidget)
+- **My IP Widget for Android**: [My IP Widget](https://github.com/nmarsollier/myipwidget)
 
   - Displays the local IP address in a widget.
 
-- **QR Barcode**: [GitHub - QR Barcode](https://github.com/nmarsollier/go_barcode)
+- **QR Barcode**: [QR Barcode](https://github.com/nmarsollier/barcodego)
 
   - Generates barcodes from strings for demo purposes.
   - Implemented in Golang.
 
-- **Semver Json Store**: [GitHub - Semver Json Store](https://github.com/nmarsollier/semver_resource_server)
+- **Semver Json Store**: [Semver Json Store](https://github.com/nmarsollier/semver_resource_server)
 
   - Downloads text resources in mobile apps while controlling versions.
   - Implemented in TypeScript/Node.js for educational purposes.
 
-- **Document Store**: [GitHub - Document Store](https://github.com/nmarsollier/document_store)
+- **Document Store**: [Document Store](https://github.com/nmarsollier/resorucesgo)
 
   - A simple document store implemented in Golang for educational purposes.
 
-- **Card Game in React**: [GitHub - Card Game](https://github.com/nmarsollier/card_game_react)
+- **Card Game in React**: [Card Game](https://github.com/nmarsollier/card_game_react)
 
   - Backend for a card game implemented in React.
   - Designed for educational purposes.
 
-- **4 in Line Game**: [GitHub - 4 in Line](https://github.com/nmarsollier/cuatrolinea)
+- **4 in Line Game**: [4 in Line](https://github.com/nmarsollier/cuatrolinea)
 
   - A simple game for educational purposes.
 
-- **Crosswords Board Generator**: [GitHub - Crosswords](https://github.com/nmarsollier/crosswords)
+- **Crosswords Board Generator**: [Crosswords](https://github.com/nmarsollier/crosswords)
 
   - Generates crossword boards.
   - Includes interesting problem-solving techniques.
   - Implemented in Java.
 
-- **React Lessons**: [GitHub - React Lessons](https://github.com/nmarsollier/react_lessons)
-
-  - Educational repository with good and bad examples of React code.
-
-- **JavaScript Lessons**: [GitHub - JavaScript Lessons](https://github.com/nmarsollier/javascript_lessons)
-
-  - Educational repository with good and bad examples of JavaScript code.
-
-- **Node Lessons**: [GitHub - Node Lessons](https://github.com/nmarsollier/node_lessons)
-
-  - Educational repository with good and bad examples of Node.js code.
-
 ### Quick Overview of my most relevant experience
 
 [Quick Overview](ARCH.md)
-
