@@ -20,7 +20,8 @@
 
 ## Professional Summary
 
-Experienced Android and Backend developer with a strong background in teaching and creating tutorials. Skilled in various programming languages and frameworks, with a focus on Android development since 2011 and Kotlin since 2012.
+Experienced Android and Backend developer with a strong background in teaching and creating tutorials.
+Skilled in various programming languages and frameworks, with a refocused on Backend development since 2024 and Kotlin since 2012.
 
 ## Skills
 
@@ -66,25 +67,12 @@ Experienced Android and Backend developer with a strong background in teaching a
 **Project**: Viaduct Open Source
 
 - Working on software refactoring to make Viaduct available Open Source.
-- **Methodologies**: Watherfall.
+- **Methodologies**: Waterfall.
 - **Architecture**: Open Source Framework.
 - **Languages**: Kotlin - Java.
 - **Libraries**: Apollo Federation.
 
 ### Dept Argentina
-
-**Principal II React Native Developer**  
-**Duration**: 04/2024 - Present  
-**Project**: JOAN
-
-- Successfully integrated Salesforce with React Native applications.
-- Developed and refactored software using React Native with Expo Go.
-- Leveraged Zustand for state management and Axios for data fetching.
-- **Methodologies**: Agile.
-- **Architecture**: Component-based architecture.
-- **Languages**: JavaScript, TypeScript.
-- **Libraries**: Zustand, React Query.
-- **Tools**: Expo Go.
 
 **Principal II Android Developer**  
 **Duration**: 08/2023 - 04/2024  
