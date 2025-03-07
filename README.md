@@ -77,6 +77,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 **Principal II Android Developer**  
 **Duration**: 08/2023 - 04/2024  
 **Project**: Prismacolor+
+
 **Achievements**:
 
 - Caught up within 6 months on an iOS project that had started 3 months earlier.
@@ -97,8 +98,8 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 **Backend Sr Developer**  
 **Duration**: 08/2023 - 04/2024  
 **Project**: Financial software
-**Achievements**:
 
+**Achievements**
 - Maintain and develop new features in.
 - Applied best practices for code quality, testing, and deployment.
 - **Methodologies**: Agile.
