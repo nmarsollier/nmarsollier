@@ -60,11 +60,11 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 
 ## Professional Experience
 
-### AirBnb
+### Contractor for AirBnb
 
 **Sr Software Developer**  
 **Duration**: 2024 - Present  
-**Project**: Viaduct Open Source
+**Project**: Viaduct Project
 
 - Working on software refactoring to make Viaduct available Open Source.
 - **Methodologies**: Waterfall.
