@@ -28,10 +28,22 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 ### Backend Developer
 
 - **Experience**: Since 1995
-- **Experience**: Senior backend developer with expertise in monolith, SOA, and microservices architectures, including DDD when supported by the language.
-- **Technologies**: GoLang, Java, Kotlin, Typescript, Javascript
-- **Frameworks**: JSP, EJB 2 and 3, Spring stack, REST applications
-- **Databases**: SQL (MySQL, PostgreSQL, Oracle), NoSQL (MongoDB), Key-Value (Redis)
+- **Experience**: Senior/Architect backend developer with expertise in monolith, SOA, and microservices architectures, including DDD when supported by the language.
+- **Technologies**:
+  - GoLang: 4 years
+  - Java: +20 years
+  - Kotlin: 12 years (combined with mobile), 2 in backend
+  - Typescript: 3 years
+  - Javascript: 15 years
+- **Frameworks**:
+  - JSP: 10 years
+  - EJB 2 and 3: 4 years
+  - Spring stack : 4 yars
+  - REST applications (other frameworks) : 6 years
+- **Databases**:
+  - SQL (MySQL, PostgreSQL, Oracle): 20+ years
+  - NoSQL (MongoDB): 4 years
+  - Key-Value (Redis): 4 years
 - **Key Skills**: High-performance monolith applications, direct access, various ORMs
 - **Code Samples**:
   - [Microservices Demo app in Go with Clean Architecture](https://github.com/nmarsollier/ecommerce),
@@ -39,7 +51,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 
 ### Android Native Developer
 
-- **Experience**: Since 2011
+- **Experience**: 13 years
 - **Technologies**: Android SDK, Kotlin, Jetpack Compose, Kotlin Multiplatform, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
 - **Key Skills**: Kotlin, Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
 - **Roles**: Technical Leader for Mobile at MercadoPago, Eventbrite
@@ -100,6 +112,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 **Project**: Financial software
 
 **Achievements**
+
 - Maintain and develop new features in.
 - Applied best practices for code quality, testing, and deployment.
 - **Methodologies**: Agile.
