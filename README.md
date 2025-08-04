@@ -102,14 +102,14 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - Mentored junior developers and provided guidance on architectural decisions.
 - **Methodologies**: Agile.
 - **Architecture**: Eventual MVI.
-- **Languages**: Kotlin.
+- **Languages**: Java, Kotlin.
 - **Libraries**: Jetpack Compose, Kotlin MP, EXO Player.
 - **Design Patterns**: MVI, Dependency Injection.
 - **Tools**: Figma, Slack, Azure.
 
 **Backend Sr Developer**  
 **Duration**: 08/2023 - 04/2024  
-**Project**: Financial software
+**Project**: Fintech software
 
 **Achievements**
 
@@ -125,7 +125,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 
 **Sr Android Developer**  
 **Duration**: 09/2021 - 08/2023  
-**Project**: Mastercard Credit Card Benefits
+**Project**: Fintech, Mastercard Credit Card Benefits
 **Achievements**:
 
 - Reach 98% of code coverage.
@@ -149,7 +149,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 
 #### Backend
 
-**Project**: Money In - Money Out
+**Project**: Fintech, Money In - Money Out
 **Achievements**:
 
 - Fully refactor a microservice.
@@ -160,14 +160,14 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - Programmed 2 microservices to enhance system performance.
 - **Methodologies**: Agile.
 - **Architecture**: Microservices, 3 layers of abstraction, MVC.
-- **Languages**: JavaScript, TypeScript, GoLang.
+- **Languages**: JavaScript, TypeScript, GoLang, Java.
 - **Libraries**: Amazon AWS, EDS, Object Storage, KWS, Apache Kafka.
 - **Design Patterns**: Functional, Clean.
 - **Tools**: Amazon AWS, Apache Kafka, MySQL.
 
 #### Android
 
-**Project**: Money In - Money Out
+**Project**: Fintech,, Money In - Money Out
 **Achievements**:
 
 - Lead 12 developers.
