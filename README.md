@@ -550,3 +550,4 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 ### Quick Overview of my most relevant experience
 
 [Quick Overview](ARCH.md)
+
