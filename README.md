@@ -121,7 +121,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 **Duration**: 08/2023 - 04/2024  
 **Project**: Fintech software
 
-**Achievements**
+**Achievements**:
 
 - Maintain and develop new features in.
 - Applied best practices for code quality, testing, and deployment.
