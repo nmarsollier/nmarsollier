@@ -20,8 +20,8 @@
 
 ## Professional Summary
 
-Experienced Android and Backend developer with a strong background in teaching and creating tutorials.
-Skilled in various programming languages and frameworks, with a refocused on Backend development since 2024 and Kotlin since 2012.
+Experienced Android and Backend developer with a strong background in architecture.
+Skilled in several programming languages and frameworks, with a refocused on Backend development since 2024 and Kotlin since 2012.
 
 ## Skills
 
@@ -38,7 +38,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - **Frameworks**:
   - JSP: 10 years
   - EJB 2 and 3: 4 years
-  - Spring stack : 4 yars
+  - Spring stack : 4 years
   - REST applications (other frameworks) : 6 years
 - **Databases**:
   - SQL (MySQL, PostgreSQL, Oracle): 20+ years
@@ -53,7 +53,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 
 - **Experience**: 13 years
 - **Technologies**: Android SDK, Kotlin, Jetpack Compose, Kotlin Multiplatform, Espresso, JUnit4, SonarQube, Jacoco, Apollo (GraphQL), MVI architecture, Coroutines with flows, Dagger/Hilt, Navigation framework, DataDog, Jira, Figma, Confluence, Slack
-- **Key Skills**: Kotlin, Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
+- **Key Skills**: Kotlin, Kotlin Multiplatform,  Koin, Google Services, GraphQL, REST, Retrofit, Room Database/SQLite, JUnit, Espresso, Jacoco, Hilt, Dagger, Reactive Paradigm, MVVM, MVC, MVI
 - **Roles**: Technical Leader for Mobile at MercadoPago, Eventbrite
 - **Architect**: MercadoPago
 - **Methodologies**: Agile, Scrum, Jira, Figma, Confluence, Slack, Jenkins
