@@ -2,7 +2,7 @@
 
 ## Contact Information
 
-- **Email**: nmarsollier@gmail.com
+- **Email**: <nmarsollier@gmail.com>
 - **LinkedIn**: [linkedin.com/in/nmarsollier](https://www.linkedin.com/in/nmarsollier)
 - **GitHub**: [github.com/nmarsollier](https://github.com/nmarsollier)
 - **Phone**: +54 261 503 5118
@@ -32,7 +32,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - **Technologies**:
   - GoLang: 4 years
   - Java: +20 years
-  - Kotlin: 12 years (combined with mobile), 2 in backend
+  - Kotlin: 12 years (combined with mobile), 4 in backend
   - Typescript: 3 years
   - Javascript: 15 years
 - **Frameworks**:
@@ -62,27 +62,37 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
   - [Fat Measurements in Kotlin with MVI](https://github.com/nmarsollier/fit_fat)
   - [Nasa Pictures in Compose Multiplatform](https://github.com/nmarsollier/nasa_pictures_kmp)
 
-### Teacher
-
-- **Institution**: UTN (University)
-- **Courses**: Microservices Architecture
-- **Code Samples**: [Microservices Architecture](https://github.com/nmarsollier/ecommerce)
-
 ### Personal Projects
 
 ## Professional Experience
 
-### Contractor for AirBnb
+### Compass
 
-**Sr Software Developer**  
-**Duration**: 2024 - Present  
+**Android Software Developer**
+**Duration**: 2026 - Present  
+**Project**: Compass
+**WebSite**: <https://www.compass.com/>
+
+- Android software developer.
+- **Methodologies**: Agile.
+- **Architecture**: MVI Kotlin Multi Platform.
+- **Languages**: Java, Kotlin.
+- **Libraries**: Jetpack Compose, Kotlin MP, EXO Player.
+- **Design Patterns**: MVI, Dependency Injection.
+- **Tools**: Figma, Slack, Azure.
+
+### Viaduct (an AirBnb open source)
+
+**Sr Backend Software Developer**  
+**Duration**: 2024 - 2026  
 **Project**: Viaduct Project
+**WebSite**: <https://viaduct.airbnb.tech/>
 
-- Working on software refactoring to make Viaduct available Open Source.
+- Software developer on Viaduct Open Source framework.
 - **Methodologies**: Waterfall.
 - **Architecture**: Open Source Framework.
 - **Languages**: Kotlin - Java.
-- **Libraries**: Apollo Federation.
+- **Libraries**: java-graphql - gradle - bazel - kotlin reflect - graphiql - koin - ktor - jacoco - bcv - etc...
 
 ### Dept Argentina
 
@@ -211,6 +221,106 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - **Tools**: Jira, Bugsnag, Google Suite, Zeplin, GitHub, Slack, Jenkins.
 - **Methodologies**: Agile, Waterfall.
 
+### UTN Universidad Tecnológica Nacional
+
+**Teacher**  
+**Duration**: 2013 - 2026
+
+#### Course: Microservices Architecture
+
+- **Technologies**: Java, Angular, Golang, Node.js, TypeScript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka.
+- **Responsibilities**: Developed and taught the Microservices Architecture course.
+- **Study Plan**: [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
+- **Code Samples**: [nmarsollier](https://github.com/nmarsollier/).
+- **Duration**: 2018 - Present.
+
+#### Course: Advanced Programming
+
+- **Technologies**: React, Node.js with TypeScript.
+- **Responsibilities**: Developed and taught the Advanced Programming course.
+- **Study Plan**: [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
+- **Code Samples**: [nmarsollier](https://github.com/nmarsollier/).
+- **Duration**: 2013 - 2023.
+
+## Personal Project Repos
+
+- **Nasa Pictures in Kotlin MVI**: [Nasa - CMP](https://github.com/nmarsollier/nasa_pictures)
+
+  - Shows pictures from nasa
+  - MVI Jetpack Compose.
+
+- **Nasa Pictures in Compose Multi platform**: [Nasa - CMP](https://github.com/nmarsollier/nasa_pictures_kmp)
+
+  - Shows pictures from nasa
+  - Jetpack Compose Multiplatform.
+
+- **Fit Fat Android App**: [Fit Fat](https://github.com/nmarsollier/fit_fat)
+
+  - Controls fat and weight in different ways.
+  - MVI Jetpack Compose.
+
+- **Fit Fat in React Native**: [Fit Fat React Native](https://github.com/nmarsollier/fit_fat_react_native)
+
+  - Same functionality as the Android app but implemented in React Native.
+
+- **Ecommerce Microservices**: [Ecommerce](https://github.com/nmarsollier/ecommerce)
+
+  - Ecommerce microservices environment for educational purposes.
+  - Includes 5 microservices written in Golang, TypeScript, Java, and Kotlin.
+
+- **Golang Tutorial**: [Golang Tutorial](https://github.com/nmarsollier/go_index)
+
+  - Advanced Golang ideas and techniques.
+  - Includes innovative concepts and high-quality code.
+
+- **Battery Switch Widget for Android**: [Battery Switch](https://github.com/nmarsollier/batteryswitch)
+
+  - Switches the battery charger on/off based on battery percentage.
+  - Supports Tasmota.
+
+- **Volume Widget for Android**: [Volume Widget](https://github.com/nmarsollier/volumewidget)
+
+  - A widget to control volume on Android devices.
+
+- **My IP Widget for Android**: [My IP Widget](https://github.com/nmarsollier/myipwidget)
+
+  - Displays the local IP address in a widget.
+
+- **QR Barcode**: [QR Barcode](https://github.com/nmarsollier/barcodego)
+
+  - Generates barcodes from strings for demo purposes.
+  - Implemented in Golang.
+
+- **Semver Json Store**: [Semver Json Store](https://github.com/nmarsollier/semver_resource_server)
+
+  - Downloads text resources in mobile apps while controlling versions.
+  - Implemented in TypeScript/Node.js for educational purposes.
+
+- **Document Store**: [Document Store](https://github.com/nmarsollier/resorucesgo)
+
+  - A simple document store implemented in Golang for educational purposes.
+
+- **Card Game in React**: [Card Game](https://github.com/nmarsollier/card_game_react)
+
+  - Backend for a card game implemented in React.
+  - Designed for educational purposes.
+
+- **4 in Line Game**: [4 in Line](https://github.com/nmarsollier/cuatrolinea)
+
+  - A simple game for educational purposes.
+
+- **Crosswords Board Generator**: [Crosswords](https://github.com/nmarsollier/crosswords)
+
+  - Generates crossword boards.
+  - Includes interesting problem-solving techniques.
+  - Implemented in Java.
+
+### Quick Overview of my most relevant experience
+
+[Quick Overview](ARCH.md)
+
+## Previous Experiences
+
 ### Atos Corp
 
 **Senior Developer, Architect**  
@@ -236,7 +346,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - **Tools**: Jira, GitHub, Jenkins.
 - **Methodologies**: Agile, Waterfall.
 
-### Belatrix S.A.
+### Belatrix S.A
 
 **Senior Developer**  
 **Duration**: 03/2010 - 01/2011  
@@ -291,7 +401,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - **Design Patterns**: MVC, DAO.
 - **Tools**: JIRA, Accurev, UML, StarTeam, SAP.
 
-### Suris S.A.
+### Suris S.A
 
 **Developer**  
 **Duration**: 01/2007 - 02/2008  
@@ -311,7 +421,7 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
 - **Design Patterns**: MVC, DAO.
 - **Tools**: SVN, Eclipse, MySQL.
 
-### Imaquio S.A.
+### Imaquio S.A
 
 **Technical Leader & Developer**  
 **Duration**: 01/2002 - 01/2005  
@@ -452,102 +562,3 @@ Skilled in various programming languages and frameworks, with a refocused on Bac
   - **Architect**: Designed and planned software architecture and system integration.
   - **Technical Leader**: Led development teams and provided technical guidance.
   - **Mentor**: Provided training and support to junior developers.
-
-### UTN Universidad Tecnológica Nacional
-
-**Teacher**  
-**Duration**: 2013 - Present
-
-#### Course: Microservices Architecture
-
-- **Technologies**: Java, Angular, Golang, Node.js, TypeScript, Kotlin, RabbitMQ, MongoDB, Redis, Kafka.
-- **Responsibilities**: Developed and taught the Microservices Architecture course.
-- **Study Plan**: [Program and Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
-- **Code Samples**: [nmarsollier](https://github.com/nmarsollier/).
-- **Duration**: 2018 - Present.
-
-#### Course: Advanced Programming
-
-- **Technologies**: React, Node.js with TypeScript.
-- **Responsibilities**: Developed and taught the Advanced Programming course.
-- **Study Plan**: [Study Plan](http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=262&Itemid=579).
-- **Code Samples**: [nmarsollier](https://github.com/nmarsollier/).
-- **Duration**: 2013 - 2023.
-
-## Personal Project Repos
-
-- **Nasa Pictures in Kotlin MVI**: [Nasa - CMP](https://github.com/nmarsollier/nasa_pictures)
-
-  - Shows pictures from nasa
-  - MVI Jetpack Compose.
-
-- **Nasa Pictures in Compose Multi platform**: [Nasa - CMP](https://github.com/nmarsollier/nasa_pictures_kmp)
-
-  - Shows pictures from nasa
-  - Jetpack Compose Multiplatform.
-
-- **Fit Fat Android App**: [Fit Fat](https://github.com/nmarsollier/fit_fat)
-
-  - Controls fat and weight in different ways.
-  - MVI Jetpack Compose.
-
-- **Fit Fat in React Native**: [Fit Fat React Native](https://github.com/nmarsollier/fit_fat_react_native)
-
-  - Same functionality as the Android app but implemented in React Native.
-
-- **Ecommerce Microservices**: [Ecommerce](https://github.com/nmarsollier/ecommerce)
-
-  - Ecommerce microservices environment for educational purposes.
-  - Includes 5 microservices written in Golang, TypeScript, Java, and Kotlin.
-
-- **Golang Tutorial**: [Golang Tutorial](https://github.com/nmarsollier/go_index)
-
-  - Advanced Golang ideas and techniques.
-  - Includes innovative concepts and high-quality code.
-
-- **Battery Switch Widget for Android**: [Battery Switch](https://github.com/nmarsollier/batteryswitch)
-
-  - Switches the battery charger on/off based on battery percentage.
-  - Supports Tasmota.
-
-- **Volume Widget for Android**: [Volume Widget](https://github.com/nmarsollier/volumewidget)
-
-  - A widget to control volume on Android devices.
-
-- **My IP Widget for Android**: [My IP Widget](https://github.com/nmarsollier/myipwidget)
-
-  - Displays the local IP address in a widget.
-
-- **QR Barcode**: [QR Barcode](https://github.com/nmarsollier/barcodego)
-
-  - Generates barcodes from strings for demo purposes.
-  - Implemented in Golang.
-
-- **Semver Json Store**: [Semver Json Store](https://github.com/nmarsollier/semver_resource_server)
-
-  - Downloads text resources in mobile apps while controlling versions.
-  - Implemented in TypeScript/Node.js for educational purposes.
-
-- **Document Store**: [Document Store](https://github.com/nmarsollier/resorucesgo)
-
-  - A simple document store implemented in Golang for educational purposes.
-
-- **Card Game in React**: [Card Game](https://github.com/nmarsollier/card_game_react)
-
-  - Backend for a card game implemented in React.
-  - Designed for educational purposes.
-
-- **4 in Line Game**: [4 in Line](https://github.com/nmarsollier/cuatrolinea)
-
-  - A simple game for educational purposes.
-
-- **Crosswords Board Generator**: [Crosswords](https://github.com/nmarsollier/crosswords)
-
-  - Generates crossword boards.
-  - Includes interesting problem-solving techniques.
-  - Implemented in Java.
-
-### Quick Overview of my most relevant experience
-
-[Quick Overview](ARCH.md)
-
